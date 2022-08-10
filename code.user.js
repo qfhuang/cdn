@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eBayTrends
 // @namespace    http://tampermonkey.net/
-// @version      0.3.10
+// @version      0.3.11
 // @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@main/code.user.js
 // @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@main/code.user.js
 // @description  try to take over the world!
