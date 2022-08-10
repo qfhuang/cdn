@@ -2,6 +2,7 @@
 // @name         eBayTrends
 // @namespace    http://tampermonkey.net/
 // @version      0.3.5
+// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@main/code.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.ebay.co.uk/itm/*
