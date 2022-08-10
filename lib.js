@@ -1,8 +1,749 @@
-/***************************************************************************/
-/*                                                                         */
-/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
-/*  Javascript Obfuscator Free Version can be downloaded here              */
-/*  http://javascriptobfuscator.com                                        */
-/*                                                                         */
-/***************************************************************************/
-var _$_c5bf=["endWith","prototype","","length","substring","startWith","substr","parseParams"," ","replace","exec","maroon","purple","olive","navy","blue","teal","orange","blueviolet","brown","burlywood","cadetblue","coral","cornflowerblue","crimson","darkblue","darkcyan","darkgoldenrod","darkgray","darkgreen","darkgrey","darkkhaki","darkmagenta","darkolivegreen","darkorange","darkorchid","darkred","darksalmon","darkseagreen","darkslateblue","darkslategray","darkslategrey","darkturquoise","darkviolet","deeppink","deepskyblue","dimgray","dimgrey","dodgerblue","firebrick","floralwhite","forestgreen","gainsboro","ghostwhite","gold","goldenrod","greenyellow","grey","honeydew","hotpink","indianred","indigo","ivory","khaki","lavender","lavenderblush","lawngreen","lemonchiffon","lightblue","lightcoral","lightcyan","lightgoldenrodyellow","lightgray","lightgreen","lightgrey","lightpink","lightsalmon","lightseagreen","lightskyblue","lightslategray","lightslategrey","lightsteelblue","lightyellow","limegreen","linen","mediumaquamarine","mediumblue","mediumorchid","mediumpurple","mediumseagreen","mediumslateblue","mediumspringgreen","mediumturquoise","mediumvioletred","midnightblue","mintcream","mistyrose","moccasin","navajowhite","oldlace","olivedrab","orangered","orchid","palegoldenrod","palegreen","paleturquoise","palevioletred","papayawhip","peachpuff","peru","pink","plum","powderblue","rosybrown","royalblue","saddlebrown","salmon","sandybrown","seagreen","seashell","sienna","skyblue","slateblue","slategray","slategrey","snow","springgreen","steelblue","tan","thistle","tomato","turquoise","violet","wheat","whitesmoke","yellowgreen","rebeccapurple","text","each","children","push","date","parse","getFullYear","getMonth","getDate","UTC","price","match","orders","lowPrice","variation",".fixed-price table tbody","find","th",".fixed-price .app-table__header-row","userid","quantity","table","name","visible","all-visible","all-hidden","other-cases","series","chart","hide","forEach","show","xy","350px","xAxis","datetime","%e.%b","%b","\u65e5\u671f","axis1","\u8ba2\u5355\u6570","bold","axis2","\u4ef7\u683c","%m-%d","circle","#D7DEE9","#64BCEC","top","vertical","right","#FCFFC5","#C98657","break-all","red","title","subtitle","tooltip","yAxis","legend","plotOptions","from","reduce","endDate","startDate","diffDay","avgOrders","ordersTotal","[\u603b\u5355\u91cf","/","\u5929]=","floor","/\u5929","log","startDate:",", endDate:","ordersLast7Days","lastDate: ","avgOrders7days","diffDays","getTime","getTimezoneOffset","ebay.co.uk","indexOf","href","location","EBAY-GB","ebay.com","EBAY-US","en-GB","America/Los_Angeles","toLocaleString","Europe/London","short","<span>\u5f53\u524d\uff1a","</span><span style=\'float:right;margin-right:220px\'><b>[","\u5355/","\u5929]=<font color=\'#FF0000\'>","</font>\u5355/\u5929  |  </b>","<b>[","</font>\u5355/\u5929</b></span>","append","map","\u6c47\u603b\u2193","column","\u8ba2\u5355\u91cf","green","spline","plotLines","#000","Dash","Dot","filter","normal","[","]\uff1a\u8ba2\u5355\u91cf","colors","getOptions","]\uff1a\u4ef7\u683c","\u53d8\u4f53\uff1a","\u2193","tickPositioner","slice","tickPositions","get","charts","jsons","summarys","chartHideAll","chartShowAll","chartAllWrap","<button id=\'","\' style=\'padding:5px 10px;margin: 10px;\'>\u5168\u9690</button>","div","#","click","\' style=\'padding:5px 10px;margin: 10px;\'>\u5168\u663e</button>","chartShowBtn","\' style=\'padding:5px;margin: 10px;\'>","</button>","#chart","toggle","chartDivId","data","<div id=\'","\'></div>","<div id=\'chart","\'  style=\'display:none\'></div>","highcharts","https://www.ebay.com/bin/purchaseHistory?item=","EBAY-UK","https://www.ebay.co.uk/bin/purchaseHistory?item=","document","text/html;","responseText","#member_info","since:","<font color=\"#FF0000\">","</font>"];String[_$_c5bf[1]][_$_c5bf[0]]= function(_0xB52A){if(_0xB52A== null|| _0xB52A== _$_c5bf[2]|| this[_$_c5bf[3]]== 0|| _0xB52A[_$_c5bf[3]]> this[_$_c5bf[3]]){return false};if(this[_$_c5bf[4]](this[_$_c5bf[3]]- _0xB52A[_$_c5bf[3]])== _0xB52A){return true}else {return false};return true};String[_$_c5bf[1]][_$_c5bf[5]]= function(_0xB52A){if(_0xB52A== null|| _0xB52A== _$_c5bf[2]|| this[_$_c5bf[3]]== 0|| _0xB52A[_$_c5bf[3]]> this[_$_c5bf[3]]){return false};if(this[_$_c5bf[6]](0,_0xB52A[_$_c5bf[3]])== _0xB52A){return true}else {return false};return true};$[_$_c5bf[7]]= function(_0xB688){var _0xB6CE=/([^&=]+)=?([^&]*)/g,_0xB5B6=/\+/g,_0xB570=function(_0xB714){return decodeURIComponent(_0xB714[_$_c5bf[9]](_0xB5B6,_$_c5bf[8]))};let _0xB642={},_0xB5FC;while(_0xB5FC= _0xB6CE[_$_c5bf[10]](_0xB688)){_0xB642[_0xB570(_0xB5FC[1])]= _0xB570(_0xB5FC[2])};return _0xB642};function getColorTable(){var _0xBAA2=[_$_c5bf[11],_$_c5bf[12],_$_c5bf[13],_$_c5bf[14],_$_c5bf[15],_$_c5bf[16],_$_c5bf[17],_$_c5bf[18],_$_c5bf[19],_$_c5bf[20],_$_c5bf[21],_$_c5bf[22],_$_c5bf[23],_$_c5bf[24],_$_c5bf[25],_$_c5bf[26],_$_c5bf[27],_$_c5bf[28],_$_c5bf[29],_$_c5bf[30],_$_c5bf[31],_$_c5bf[32],_$_c5bf[33],_$_c5bf[34],_$_c5bf[35],_$_c5bf[36],_$_c5bf[37],_$_c5bf[38],_$_c5bf[39],_$_c5bf[40],_$_c5bf[41],_$_c5bf[42],_$_c5bf[43],_$_c5bf[44],_$_c5bf[45],_$_c5bf[46],_$_c5bf[47],_$_c5bf[48],_$_c5bf[49],_$_c5bf[50],_$_c5bf[51],_$_c5bf[52],_$_c5bf[53],_$_c5bf[54],_$_c5bf[55],_$_c5bf[56],_$_c5bf[57],_$_c5bf[58],_$_c5bf[59],_$_c5bf[60],_$_c5bf[61],_$_c5bf[62],_$_c5bf[63],_$_c5bf[64],_$_c5bf[65],_$_c5bf[66],_$_c5bf[67],_$_c5bf[68],_$_c5bf[69],_$_c5bf[70],_$_c5bf[71],_$_c5bf[72],_$_c5bf[73],_$_c5bf[74],_$_c5bf[75],_$_c5bf[76],_$_c5bf[77],_$_c5bf[78],_$_c5bf[79],_$_c5bf[80],_$_c5bf[81],_$_c5bf[82],_$_c5bf[83],_$_c5bf[84],_$_c5bf[85],_$_c5bf[86],_$_c5bf[87],_$_c5bf[88],_$_c5bf[89],_$_c5bf[90],_$_c5bf[91],_$_c5bf[92],_$_c5bf[93],_$_c5bf[94],_$_c5bf[95],_$_c5bf[96],_$_c5bf[97],_$_c5bf[98],_$_c5bf[99],_$_c5bf[100],_$_c5bf[101],_$_c5bf[102],_$_c5bf[103],_$_c5bf[104],_$_c5bf[105],_$_c5bf[106],_$_c5bf[107],_$_c5bf[108],_$_c5bf[109],_$_c5bf[110],_$_c5bf[111],_$_c5bf[112],_$_c5bf[113],_$_c5bf[114],_$_c5bf[115],_$_c5bf[116],_$_c5bf[117],_$_c5bf[118],_$_c5bf[119],_$_c5bf[120],_$_c5bf[121],_$_c5bf[122],_$_c5bf[123],_$_c5bf[124],_$_c5bf[125],_$_c5bf[126],_$_c5bf[127],_$_c5bf[128],_$_c5bf[129],_$_c5bf[130],_$_c5bf[131],_$_c5bf[132],_$_c5bf[133],_$_c5bf[134],_$_c5bf[135],_$_c5bf[136]];return _0xBAA2}function $tableToArray($table,titleArray){var _0xB386=[];$table[_$_c5bf[139]]()[_$_c5bf[138]](function(){var _0xB412={};$(this)[_$_c5bf[139]]()[_$_c5bf[138]](function(_0xB458,_0xB49E){_0xB412[titleArray[_0xB458]]= $(_0xB49E)[_$_c5bf[137]]()});_0xB386[_$_c5bf[140]](_0xB412)});return _0xB386}function clearData(_0xB82C){$[_$_c5bf[138]](_0xB82C,function(_0xB458,_0xB872){var _0xB8FE=Date[_$_c5bf[142]](_0xB872[_$_c5bf[141]][_$_c5bf[4]](0,11));var _0xB8B8= new Date(_0xB8FE);_0xB872[_$_c5bf[141]]= Date[_$_c5bf[146]](_0xB8B8[_$_c5bf[143]](),_0xB8B8[_$_c5bf[144]](),_0xB8B8[_$_c5bf[145]]());_0xB872[_$_c5bf[147]]= _0xB872[_$_c5bf[147]][_$_c5bf[148]](/\d+(.\d+)?/g)* 100})}function sumOrdersByDate(_0xBFD4){var _0xBC00= new Array();var _0xDA5A={};_0xDA5A[_$_c5bf[141]]=  new Date(0);_0xDA5A[_$_c5bf[149]]= 0;_0xDA5A[_$_c5bf[150]]= 0;$[_$_c5bf[138]](_0xBFD4,function(_0xB458,_0xB872){if(_0xB872[_$_c5bf[141]]- _0xDA5A[_$_c5bf[141]]== 0){_0xDA5A[_$_c5bf[149]]+= 1;if(_0xB872[_$_c5bf[147]]!= 0){if(_0xB872[_$_c5bf[147]]< _0xDA5A[_$_c5bf[150]]|| _0xDA5A[_$_c5bf[150]]== 0){_0xDA5A[_$_c5bf[150]]= _0xB872[_$_c5bf[147]]}}}else {if(_0xB872[_$_c5bf[147]]== 0){_0xB872[_$_c5bf[147]]= _0xDA5A[_$_c5bf[150]]};if(_0xDA5A[_$_c5bf[150]]== 0){_0xDA5A[_$_c5bf[150]]= _0xB872[_$_c5bf[147]]};var _0xDAA0={};_0xDAA0[_$_c5bf[141]]= _0xB872[_$_c5bf[141]];_0xDAA0[_$_c5bf[149]]= 1;_0xDAA0[_$_c5bf[150]]= _0xB872[_$_c5bf[147]];_0xBC00[_$_c5bf[140]](_0xDAA0);_0xDA5A= _0xDAA0}});return _0xBC00}function convertPurchaseTable($html){var tTable={};tTable[_$_c5bf[151]]= false;var _0xB98A=$html[_$_c5bf[153]](_$_c5bf[152]);var _0xB9D0=$html[_$_c5bf[153]](_$_c5bf[155])[_$_c5bf[139]](_$_c5bf[154])[_$_c5bf[3]];var tArray={};if(_0xB9D0== 5){tTable[_$_c5bf[151]]= true;tArray= $tableToArray(_0xB98A,[_$_c5bf[156],_$_c5bf[151],_$_c5bf[147],_$_c5bf[157],_$_c5bf[141]])}else {if(_0xB9D0== 4){tTable[_$_c5bf[151]]= false;tArray= $tableToArray(_0xB98A,[_$_c5bf[156],_$_c5bf[147],_$_c5bf[157],_$_c5bf[141]])}};tTable[_$_c5bf[158]]= tArray;return tTable}function getVisibleMode(_0xBCD2,_0xC84E){var _0xC808=true;var _0xC7C2=true;for(let _0xBDA4=0;_0xBDA4< _0xBCD2[_$_c5bf[3]];_0xBDA4++){if(_0xBCD2[_0xBDA4][_$_c5bf[159]]=== _0xC84E){continue};_0xC808&= _0xBCD2[_0xBDA4][_$_c5bf[160]];_0xC7C2&= (!_0xBCD2[_0xBDA4][_$_c5bf[160]])};if(_0xC808&&  !_0xC7C2){return _$_c5bf[161]};if(_0xC7C2&&  !_0xC808){return _$_c5bf[162]};return _$_c5bf[163]}function emitLegendItemClick1(_0xC3A8){var _0xBCD2=_0xC3A8[_$_c5bf[165]][_$_c5bf[164]];var _0xC362=getVisibleMode(_0xBCD2,_0xC3A8[_$_c5bf[159]]);var _0xC31C=false;if(!_0xC3A8[_$_c5bf[160]]){_0xC31C= true}else {if(_0xC362=== _$_c5bf[161]){_0xBCD2[_$_c5bf[167]]((_0xC434,_0xC3EE)=>{_0xC434[_$_c5bf[166]]()});_0xC3A8[_$_c5bf[168]]()}else {if(_0xC362=== _$_c5bf[162]){_0xBCD2[_$_c5bf[167]]((_0xC434,_0xC3EE)=>{_0xC434[_$_c5bf[168]]()})}else {_0xC31C= true}}};return _0xC31C}function createDefaultChartJson(_0xC0A6){var _0xC01A={zoomType:_$_c5bf[169],height:_$_c5bf[170],marginRight:250};var _0xC178={text:_0xC0A6};var _0xC132={text:_$_c5bf[2]};var _0xC204={id:_$_c5bf[171],type:_$_c5bf[172],dateTimeLabelFormats:{month:_$_c5bf[173],year:_$_c5bf[174]},title:{text:_$_c5bf[175]},crosshair:true};var _0xC24A=[{id:_$_c5bf[176],min:0,tickInterval:1,title:{text:_$_c5bf[177]},opposite:true,stackLabels:{enabled:true,style:{fontWeight:_$_c5bf[178],color:_$_c5bf[17]}}},{id:_$_c5bf[179],min:0,tickInterval:1,title:{text:_$_c5bf[180]}}];var _0xC1BE={shared:true,useHTML:true,xDateFormat:_$_c5bf[181]};var _0xC0EC={spline:{marker:{symbol:_$_c5bf[182],radius:2,enabled:true},dataLabels:{enabled:true,style:{color:_$_c5bf[183]}},events:{legendItemClick:function(_0xB5FC){return emitLegendItemClick1(this)}}},column:{maxPointWidth:10,dataLabels:{enabled:true,style:{color:_$_c5bf[184]},verticalAlign:_$_c5bf[185]},events:{legendItemClick:function(_0xB5FC){return emitLegendItemClick1(this)}}}};var _0xC060={layout:_$_c5bf[186],align:_$_c5bf[187],x:20,verticalAlign:_$_c5bf[185],y:0,backgroundColor:_$_c5bf[188],borderColor:_$_c5bf[189],borderWidth:1,width:200,itemWidth:200,itemDistance:200,itemStyle:{width:250,'word-break':_$_c5bf[190]},itemHiddenStyle:{color:_$_c5bf[191]},itemHoverStyle:{color:_$_c5bf[191]}};var _0xBAE8={};_0xBAE8[_$_c5bf[165]]= _0xC01A;_0xBAE8[_$_c5bf[192]]= _0xC178;_0xBAE8[_$_c5bf[193]]= _0xC132;_0xBAE8[_$_c5bf[194]]= _0xC1BE;_0xBAE8[_$_c5bf[171]]= _0xC204;_0xBAE8[_$_c5bf[195]]= _0xC24A;_0xBAE8[_$_c5bf[196]]= _0xC060;_0xBAE8[_$_c5bf[197]]= _0xC0EC;return _0xBAE8}function uniq1(_0xB82C){return [... new Set(_0xB82C)]}function uniq2(_0xB82C){return Array[_$_c5bf[198]]( new Set(_0xB82C))}function sumDataByDateRange(_0xBC00){var _0xBD18={};var _0xC9F2;if(_0xBC00[_$_c5bf[3]]> 1){_0xC9F2= getTodayUTCDate();var _0xCA7E=_0xBC00[_0xBC00[_$_c5bf[3]]- 1][_$_c5bf[141]];var _0xD7E4=_0xC9F2- _0xCA7E;if(_0xD7E4>= 0){var _0xD79E=(_0xD7E4/ (1000* 60* 60* 24));var _0xD942=_0xBC00[_$_c5bf[199]](function(_0xDA14,_0xD9CE){if(_0xD9CE[_$_c5bf[141]]>= _0xCA7E&& _0xD9CE[_$_c5bf[141]]< _0xC9F2){return _0xDA14+ Number(_0xD9CE[_$_c5bf[149]])}else {return _0xDA14}},0);var _0xD758=_0xD942/ _0xD79E;_0xBD18[_$_c5bf[200]]= _0xC9F2;_0xBD18[_$_c5bf[201]]= _0xCA7E;_0xBD18[_$_c5bf[202]]= _0xD79E;_0xBD18[_$_c5bf[203]]= _0xD758;_0xBD18[_$_c5bf[204]]= _0xD942;console[_$_c5bf[210]](_$_c5bf[205]+ _0xD942+ _$_c5bf[206]+ _0xD79E+ _$_c5bf[207]+ (Math[_$_c5bf[208]](_0xD758* 100)/ 100)+ _$_c5bf[209]);var _0xD870=getTodayUTCDate();var _0xD988=_0xD870- (8* 24* 60* 60* 1000);console[_$_c5bf[210]](_$_c5bf[211]+ _0xD988+ _$_c5bf[212]+ _0xD870);var _0xD8FC=_0xBC00[_$_c5bf[199]](function(_0xDA14,_0xD9CE){if(_0xD9CE[_$_c5bf[141]]>= _0xD988&& _0xD9CE[_$_c5bf[141]]< _0xD870){return _0xDA14+ Number(_0xD9CE[_$_c5bf[149]])}else {return _0xDA14}},0);_0xBD18[_$_c5bf[213]]= _0xD8FC;var _0xD8B6=_0xBC00[_0xBC00[_$_c5bf[3]]- 1][_$_c5bf[141]];console[_$_c5bf[210]](_$_c5bf[214]+ _0xD8B6);if(_0xD8B6> _0xD988){var _0xD82A=((_0xD870- _0xD8B6)/ (24* 60* 60* 1000));_0xBD18[_$_c5bf[215]]= _0xD8FC/ _0xD82A;_0xBD18[_$_c5bf[216]]= _0xD82A}else {_0xBD18[_$_c5bf[215]]= _0xD8FC/ 7;_0xBD18[_$_c5bf[216]]= 7}}};return _0xBD18}function getLocalTime(_0xBDA4){var _0xC664= new Date();var _0xC6AA=_0xC664[_$_c5bf[217]]();var _0xC6F0=_0xC664[_$_c5bf[218]]()* 60000;var _0xC736=_0xC6AA+ _0xC6F0;return  new Date(_0xC736+ 3600000* _0xBDA4)}function getSiteLocalDate(){var _0xC77C= new Date();if(window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[219])>= 0|| window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[223])>= 0){_0xC77C= getLocalTime(1)}else {_0xC77C= getLocalTime(-8)};return _0xC77C}function getTodayUTCDate(){var _0xC664= new Date();return Date[_$_c5bf[146]](_0xC664[_$_c5bf[143]](),_0xC664[_$_c5bf[144]](),_0xC664[_$_c5bf[145]]())}function displaySummary(summary,$container){var _0xC2D6=_$_c5bf[2];if(window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[224])>= 0|| window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[225])>= 0){_0xC2D6=  new Date()[_$_c5bf[228]](_$_c5bf[226],{timeZone:_$_c5bf[227]})}else {if(window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[219])>= 0|| window[_$_c5bf[222]][_$_c5bf[221]][_$_c5bf[220]](_$_c5bf[223])>= 0){_0xC2D6=  new Date()[_$_c5bf[228]](_$_c5bf[226],{timeZone:_$_c5bf[229],timeZoneName:_$_c5bf[230]})}else {_0xC2D6=  new Date()[_$_c5bf[228]](_$_c5bf[226],{timeZone:_$_c5bf[227]})}};var _0xB52A=_$_c5bf[231]+ _0xC2D6+ _$_c5bf[232]+ summary[_$_c5bf[204]]+ _$_c5bf[233]+ summary[_$_c5bf[202]]+ _$_c5bf[234]+ (Math[_$_c5bf[208]](summary[_$_c5bf[203]]* 100)/ 100)+ _$_c5bf[235]+ _$_c5bf[236]+ summary[_$_c5bf[213]]+ _$_c5bf[233]+ summary[_$_c5bf[216]]+ _$_c5bf[234]+ (Math[_$_c5bf[208]](summary[_$_c5bf[215]]* 100)/ 100)+ _$_c5bf[237];$container[_$_c5bf[238]](_0xB52A)}function creatChartData($purchaseHtml){var _0xBA5C={};var _0xBB2E=[];var tTable=convertPurchaseTable($purchaseHtml);var tArray=tTable[_$_c5bf[158]];clearData(tArray);var _0xBC00=sumOrdersByDate(tArray);var _0xBD5E=[];var _0xBD18=sumDataByDateRange(_0xBC00);_0xBD5E[_$_c5bf[140]](_0xBD18);var _0xBC8C=_0xBC00[_$_c5bf[239]]((_0xB872,_0xB458)=>{return [_0xB458]= [_0xB872[_$_c5bf[141]],_0xB872[_$_c5bf[149]]]});var _0xBB74=_0xBC00[_$_c5bf[239]]((_0xB872,_0xB458)=>{return [_0xB458]= [_0xB872[_$_c5bf[141]],_0xB872[_$_c5bf[150]]/ 100]});var _0xBCD2=[];var _0xBAE8=createDefaultChartJson(_$_c5bf[240]);if(tTable[_$_c5bf[151]]== false){var _0xBC46={type:_$_c5bf[241],name:_$_c5bf[242],data:_0xBC8C,color:_$_c5bf[243]};var _0xBBBA={type:_$_c5bf[244],name:_$_c5bf[180],yAxis:1,data:_0xBB74,color:_$_c5bf[191]};_0xBCD2[_$_c5bf[140]](_0xBC46);_0xBCD2[_$_c5bf[140]](_0xBBBA)};_0xBAE8[_$_c5bf[164]]= _0xBCD2;_0xBAE8[_$_c5bf[195]][0][_$_c5bf[245]]= [{color:_$_c5bf[246],dashStyle:_$_c5bf[247],width:0.5,value:(Math[_$_c5bf[208]](_0xBD18[_$_c5bf[213]]/ 7* 100)/ 100),zIndex:5},{color:_$_c5bf[246],dashStyle:_$_c5bf[248],width:0.5,value:(Math[_$_c5bf[208]](_0xBD18[_$_c5bf[203]]* 100)/ 100),zIndex:5}];_0xBB2E[_$_c5bf[140]](_0xBAE8);var _0xBAA2=getColorTable();if(tTable[_$_c5bf[151]]== true){var varColArray=uniq2(tArray[_$_c5bf[239]]((_0xB4E4)=>{return _0xB4E4[_$_c5bf[151]]}));$[_$_c5bf[138]](varColArray,function(_0xBDA4,_0xB4E4){var _0xBF8E=tArray[_$_c5bf[249]](function(_0xBFD4){return (_0xBFD4[_$_c5bf[151]]=== _0xB4E4)});var _0xBE76=sumOrdersByDate(_0xBF8E);var _0xBF48=sumDataByDateRange(_0xBE76);_0xBD5E[_$_c5bf[140]](_0xBF48);var _0xBEBC=_0xBE76[_$_c5bf[239]]((_0xB872,_0xB458)=>{return [_0xB458]= [_0xB872[_$_c5bf[141]],_0xB872[_$_c5bf[149]]]});var _0xBE30=_0xBE76[_$_c5bf[239]]((_0xB872,_0xB458)=>{return [_0xB458]= [_0xB872[_$_c5bf[141]],_0xB872[_$_c5bf[150]]/ 100]});_0xBAE8[_$_c5bf[164]][_$_c5bf[140]]({type:_$_c5bf[241],stacking:_$_c5bf[250],name:_$_c5bf[251]+ _0xB4E4+ _$_c5bf[252],data:_0xBEBC,color:Highcharts[_$_c5bf[254]]()[_$_c5bf[253]][_0xBDA4]});_0xBAE8[_$_c5bf[164]][_$_c5bf[140]]({type:_$_c5bf[244],name:_$_c5bf[251]+ _0xB4E4+ _$_c5bf[255],data:_0xBE30,yAxis:1,color:Highcharts[_$_c5bf[254]]()[_$_c5bf[253]][_0xBDA4]});var _0xBF02=[];_0xBF02[_$_c5bf[140]]({type:_$_c5bf[241],stacking:_$_c5bf[250],name:_$_c5bf[251]+ _0xB4E4+ _$_c5bf[252],data:_0xBEBC,color:Highcharts[_$_c5bf[254]]()[_$_c5bf[253]][_0xBDA4]});_0xBF02[_$_c5bf[140]]({type:_$_c5bf[244],name:_$_c5bf[251]+ _0xB4E4+ _$_c5bf[255],data:_0xBE30,yAxis:1,color:Highcharts[_$_c5bf[254]]()[_$_c5bf[253]][_0xBDA4]});var _0xBDEA=createDefaultChartJson(_$_c5bf[256]+ _0xB4E4+ _$_c5bf[257]);_0xBDEA[_$_c5bf[164]]= _0xBF02;_0xBDEA[_$_c5bf[195]][0][_$_c5bf[258]]= function(){return Highcharts[_$_c5bf[262]][0][_$_c5bf[261]](_$_c5bf[176])[_$_c5bf[260]][_$_c5bf[259]]()};_0xBDEA[_$_c5bf[171]][_$_c5bf[258]]= function(){return Highcharts[_$_c5bf[262]][0][_$_c5bf[261]](_$_c5bf[171])[_$_c5bf[260]][_$_c5bf[259]]()};_0xBDEA[_$_c5bf[195]][0][_$_c5bf[245]]= [{color:_$_c5bf[246],dashStyle:_$_c5bf[247],width:0.5,value:(Math[_$_c5bf[208]](_0xBF48[_$_c5bf[213]]/ 7* 100)/ 100),zIndex:5},{color:_$_c5bf[246],dashStyle:_$_c5bf[248],width:0.5,value:(Math[_$_c5bf[208]](_0xBF48[_$_c5bf[203]]* 100)/ 100),zIndex:5}];_0xBB2E[_$_c5bf[140]](_0xBDEA)})};_0xBA5C[_$_c5bf[263]]= _0xBB2E;_0xBA5C[_$_c5bf[264]]= _0xBD5E;return _0xBA5C}function purchaseTrendsMountTo($html,$container,itemid){var _0xBA5C=creatChartData($html);var _0xBB2E=_0xBA5C[_$_c5bf[263]];var _0xD5FA=_$_c5bf[265]+ itemid;var _0xD640=_$_c5bf[266]+ itemid;var _0xD5B4=_$_c5bf[267]+ itemid;$container[_$_c5bf[238]](_$_c5bf[268]+ _0xD5FA+ _$_c5bf[269]);$(_$_c5bf[271]+ _0xD5FA)[_$_c5bf[272]](function(){$(_$_c5bf[271]+ _0xD5B4)[_$_c5bf[139]](_$_c5bf[270])[_$_c5bf[166]]()});$container[_$_c5bf[238]](_$_c5bf[268]+ _0xD640+ _$_c5bf[273]);$(_$_c5bf[271]+ _0xD640)[_$_c5bf[272]](function(){$(_$_c5bf[271]+ _0xD5B4)[_$_c5bf[139]](_$_c5bf[270])[_$_c5bf[168]]()});$[_$_c5bf[138]](_0xBB2E,function(_0xB458,_0xB872){var _0xD686=_$_c5bf[274]+ itemid+ _0xB458;$container[_$_c5bf[238]](_$_c5bf[268]+ _0xD686+ _$_c5bf[275]+ _0xB872[_$_c5bf[192]][_$_c5bf[137]]+ _$_c5bf[276]);$(_$_c5bf[271]+ _0xD686)[_$_c5bf[272]]({chartDivId:_$_c5bf[277]+ itemid+ _0xB458},function(_0xB5FC){$(_0xB5FC[_$_c5bf[280]][_$_c5bf[279]])[_$_c5bf[278]]()})});$container[_$_c5bf[238]](_$_c5bf[281]+ _0xD5B4+ _$_c5bf[282]);$[_$_c5bf[138]](_0xBB2E,function(_0xB458,_0xB872){var $chartDiv;if(_0xB458== 0){$chartDiv= $(_$_c5bf[283]+ itemid+ _0xB458+ _$_c5bf[282])}else {$chartDiv= $(_$_c5bf[283]+ itemid+ _0xB458+ _$_c5bf[284])};$(_$_c5bf[271]+ _0xD5B4)[_$_c5bf[238]]($chartDiv);$chartDiv[_$_c5bf[285]](_0xB872);displaySummary(_0xBA5C[_$_c5bf[264]][_0xB458],$chartDiv)})}function buildPurchaseHistoryUrl(_0xB75A,_0xB7A0){var _0xB7E6=_$_c5bf[2];if(_0xB75A== _$_c5bf[225]){_0xB7E6= _$_c5bf[286]+ _0xB7A0}else {if(_0xB75A== _$_c5bf[287]){_0xB7E6= _$_c5bf[288]+ _0xB7A0}else {debugger}};return _0xB7E6}function purchaseTrendsMountToByItemId(ebaySite,itemid,$container){var _0xB7E6=buildPurchaseHistoryUrl(ebaySite,itemid);$[_$_c5bf[261]](_0xB7E6,function(_0xCE98){var $html=$(_0xCE98);purchaseTrendsMountTo($html,$container,itemid)})}function purchaseTrendsMountToByItemIdCROS(ebaySite,itemid,$container){var _0xB7E6=buildPurchaseHistoryUrl(ebaySite,itemid);GM_xmlhttpRequest({url:_0xB7E6,responseType:_$_c5bf[289],headers:{'overrideMimeType':_$_c5bf[290]},onload:function(_0xD712){var $html=$(_0xD712[_$_c5bf[291]]);purchaseTrendsMountTo($html,$container,itemid)}})}function SellerInfoMountToByUrl(url,$container){$[_$_c5bf[261]](url,function(_0xCE98){var _0xCFB0=$(_0xCE98)[_$_c5bf[153]](_$_c5bf[292])[_$_c5bf[137]]();var _0xD03C=_0xCFB0[_$_c5bf[220]](_$_c5bf[293]);$container[_$_c5bf[238]](_$_c5bf[294]+ _0xCFB0[_$_c5bf[4]](_0xD03C+ _$_c5bf[293][_$_c5bf[3]])+ _$_c5bf[295])})}function getEbaySiteString(_0xB7E6){return _0xB7E6[_$_c5bf[220]](_$_c5bf[224])>= 0?_$_c5bf[225]:_$_c5bf[287]}
+   
+    //===========================================================================================库函数 开始=============================================================================== //
+    String.prototype.endWith=function(s){
+        if(s==null||s==""||this.length==0||s.length>this.length)
+            return false;
+        if(this.substring(this.length-s.length)==s)
+            return true;
+        else
+            return false;
+        return true;
+    }
+
+    String.prototype.startWith=function(s){
+        if(s==null||s==""||this.length==0||s.length>this.length)
+            return false;
+        if(this.substr(0,s.length)==s)
+            return true;
+        else
+            return false;
+        return true;
+    }
+
+    // 解析 url 参数
+    $.parseParams = function(query) {
+        var re = /([^&=]+)=?([^&]*)/g,
+            decodeRE = /\+/g,
+            decode = function (str) { return decodeURIComponent( str.replace(decodeRE, " ") ); };
+        let params = {}, e;
+
+        while ( e = re.exec(query) ) params[ decode(e[1]) ] = decode( e[2] );
+        return params;
+    }
+
+    //JavaScript取得216种WEB安全色值
+    function getColorTable(){
+        var colorTable = ['maroon','purple','olive','navy','blue','teal','orange','blueviolet','brown','burlywood','cadetblue','coral','cornflowerblue','crimson','darkblue','darkcyan','darkgoldenrod','darkgray','darkgreen','darkgrey','darkkhaki','darkmagenta','darkolivegreen','darkorange','darkorchid','darkred','darksalmon','darkseagreen','darkslateblue','darkslategray','darkslategrey','darkturquoise','darkviolet','deeppink','deepskyblue','dimgray','dimgrey','dodgerblue','firebrick','floralwhite','forestgreen','gainsboro','ghostwhite','gold','goldenrod','greenyellow','grey','honeydew','hotpink','indianred','indigo','ivory','khaki','lavender','lavenderblush','lawngreen','lemonchiffon','lightblue','lightcoral','lightcyan','lightgoldenrodyellow','lightgray','lightgreen','lightgrey','lightpink','lightsalmon','lightseagreen','lightskyblue','lightslategray','lightslategrey','lightsteelblue','lightyellow','limegreen','linen','mediumaquamarine','mediumblue','mediumorchid','mediumpurple','mediumseagreen','mediumslateblue','mediumspringgreen','mediumturquoise','mediumvioletred','midnightblue','mintcream','mistyrose','moccasin','navajowhite','oldlace','olivedrab','orangered','orchid','palegoldenrod','palegreen','paleturquoise','palevioletred','papayawhip','peachpuff','peru','pink','plum','powderblue','rosybrown','royalblue','saddlebrown','salmon','sandybrown','seagreen','seashell','sienna','skyblue','slateblue','slategray','slategrey','snow','springgreen','steelblue','tan','thistle','tomato','turquoise','violet','wheat','whitesmoke','yellowgreen','rebeccapurple'];
+        return colorTable;
+    }
+
+    function $tableToArray($table, titleArray)
+    {
+        var arr = [];
+        $table.children().each(function(){
+            var obj = {};
+            $(this).children().each(function(index, value){
+                obj[titleArray[index]] = $(value).text();
+            });
+            arr.push(obj);
+        });
+        return arr;
+    };
+
+    function clearData(array)
+    {
+        $.each(array, function(index, item){
+            //console.log(item);
+            var t = Date.parse(item.date.substring(0, 11));
+            var local = new Date(t);
+            item.date = Date.UTC(local.getFullYear(), local.getMonth(), local.getDate()); // 创建为UTC时间戳
+            item.price = item.price.match(/\d+(.\d+)?/g) * 100;
+        });
+    }
+
+    function sumOrdersByDate(a)
+    {
+        var newArr = new Array();
+        var lastItem = {};
+        lastItem["date"] = new Date(0);
+        lastItem["orders"] = 0;
+        lastItem["lowPrice"] = 0;
+        $.each(a, function(index, item){
+            if (item.date - lastItem["date"] == 0)
+            {
+                lastItem["orders"] +=1;
+                if (item.price != 0)
+                {
+                    if (item.price < lastItem["lowPrice"] || lastItem["lowPrice"]==0)
+                    {
+                        lastItem["lowPrice"] = item.price;
+                    }
+                }
+            }
+            else
+            {
+                if(item.price == 0)
+                {
+                    item.price = lastItem["lowPrice"];
+                }
+
+                if(lastItem["lowPrice"] == 0)
+                {
+                    lastItem["lowPrice"] = item.price;
+                }
+                var newItem = {};
+                newItem.date = item.date;
+                newItem.orders = 1;
+                newItem.lowPrice = item.price;
+                newArr.push(newItem);
+                lastItem = newItem;
+            }
+
+        });
+        //console.log(newArr);
+        return newArr;
+    }
+
+
+    function convertPurchaseTable($html)
+    {
+        var tTable = {};
+        tTable.variation = false;
+
+        var body = $html.find(".fixed-price table tbody");
+        var col = $html.find(".fixed-price .app-table__header-row").children("th").length;
+
+        var tArray = {};
+        if (col == 5)
+        {
+            tTable.variation = true;
+            tArray = $tableToArray(body, ["userid","variation","price","quantity","date"]);
+        }
+        else if (col == 4)
+        {
+            tTable.variation = false;
+            tArray = $tableToArray(body, ["userid","price","quantity","date"]);
+        }
+        tTable.table = tArray;
+        return tTable;
+    }
+
+
+    // 数据列展示/隐藏的逻辑函数
+    function getVisibleMode(series, serieName) {
+        var allVisible = true
+        var allHidden = true
+        for (let i = 0; i < series.length; i++) {
+            if (series[i].name === serieName)
+                continue
+            // &= 按位运算用法：a &= b 等价于 a = a & b (值为 0 / 1)
+            allVisible &= series[i].visible
+            allHidden &= (!series[i].visible)
+        }
+        if (allVisible && !allHidden)
+            return 'all-visible'
+        if (allHidden && !allVisible)
+            return 'all-hidden'
+        return 'other-cases'
+    }
+
+    function emitLegendItemClick1(that)
+    {
+        //console.log(that);
+        var series = that.chart.series;
+        //console.log("aaas"+that.name);
+        //console.log(series);
+        var mode = getVisibleMode(series, that.name);
+        var enableDefault = false
+        if (!that.visible) {
+            enableDefault = true
+        } else if (mode === 'all-visible') {
+            series.forEach((serie, k) => {
+                serie.hide();
+            })
+            that.show();
+        } else if (mode === 'all-hidden') {
+            series.forEach((serie, k) => {
+                serie.show();
+            })
+        } else {
+            enableDefault = true
+        }
+        return enableDefault
+
+    }
+
+
+    function createDefaultChartJson(mainTitle)
+    {
+        var chart = {
+            zoomType: 'xy',
+            height: "350px",
+            //marginLeft: 100,
+            marginRight: 250
+        };
+        var title = {
+            text: mainTitle
+        };
+        var subtitle = {
+            text: ''
+        };
+        var xAxis = {
+            id: 'xAxis',
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e.%b',
+                year: '%b'
+            },
+            title: {
+                text: '日期'
+            },
+            crosshair: true
+        };
+        var yAxis = [
+            {
+                id: 'axis1',
+                min:0,
+                tickInterval:1,
+                //tickPixelInterval: ,
+                title: {
+                    text: '订单数'
+                },
+                opposite: true,
+                stackLabels: {
+                    enabled: true,
+                    style: {
+                        fontWeight: 'bold',
+                        color:'orange'
+                    }
+                }
+            },
+            {
+                id: 'axis2',
+                min:0,
+                tickInterval: 1,
+                title: {
+                    text: '价格'
+                }
+            }
+        ]
+        var tooltip = {
+            //headerFormat: '<b>{series.name}</b><br>',
+            //pointFormat: '{point.x:%e-%b}: {point.y:.2f}',
+            //headerFormat: '<span style="font-size:10px">{point.key}</span><table><tr><td style="color:{series[0].color};padding:0">{series[0].name}: </td>' +
+            //  '<td style="padding:0"><b>{point[0].y:.2f}</b></td></tr><tr><td style="color:{series[1].color};padding:0">{series[1].name}: </td><td style="padding:0"><b>{point[1].y:.2f}</b></td></tr>',
+            //pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+            //  '<td style="padding:0"><b>{point.y:.2f}</b></td></tr>',
+            //footerFormat: '</table>',
+
+            shared: true,
+            useHTML: true,
+            xDateFormat: '%m-%d',
+            //      crosshairs: [{
+            //				width: 3,
+            //				color: 'green'
+            //			}, {
+            //				width: 3,
+            //				color: 'green'}]
+        };
+        //数据点选项
+        var plotOptions = {
+            spline: {
+                marker: {
+                    symbol: 'circle',
+                    radius: 2,
+                    enabled: true
+                },
+                dataLabels: {enabled: true, style: { color: '#D7DEE9' }},
+                events : {
+                    // 图例点击事件
+                    legendItemClick : function (e) {
+                        return emitLegendItemClick1(this);
+
+
+                    }
+                }
+            },
+            column: {
+                //stacking: 'percent',//可用的参数值包括 null（不进行堆叠）、"normal"（普通堆叠） 和 "percent"（百分比堆叠）。
+                //groupPadding: 0.08,//不同组柱子之间的间隙
+                maxPointWidth: 10,//柱状最大宽度
+                dataLabels: {enabled: true, style: { color: '#64BCEC' },verticalAlign: 'top'},
+                events : {
+                    // 图例点击事件
+                    legendItemClick : function (e) {
+                        return emitLegendItemClick1(this);
+
+
+                    }
+                }
+
+            }
+        };
+
+        var legend = {
+            layout: 'vertical',
+            align: 'right',
+            x: 20,
+            verticalAlign: 'top',
+            y: 0,
+            //floating: true
+            backgroundColor: '#FCFFC5',
+            borderColor: '#C98657',
+            borderWidth: 1,
+            width: 200,
+            itemWidth: 200,
+            itemDistance: 200,
+            itemStyle: {
+                width: 250,
+                'word-break': 'break-all'
+            },
+            // 图例点击后颜色
+            itemHiddenStyle : {
+                color : 'red'
+            },
+            // 鼠标放上样式
+            itemHoverStyle : {
+                color : 'red'
+            },
+            //symbolPadding : 5, // 图标跟文字的间距
+            //symbolPadding: 5 ,// 图标后距
+            //symbolRadius: 5, // 图标圆角
+            //symbolWidth: 5,// 图标宽度
+        };
+
+        var json = {};
+        json.chart = chart;
+        json.title = title;
+        json.subtitle = subtitle;
+        json.tooltip = tooltip;
+        json.xAxis = xAxis;
+        json.yAxis = yAxis;
+        json.legend = legend;
+        //json.series = series;
+        json.plotOptions = plotOptions;
+
+        return json;
+
+    }
+
+    function uniq1(array) {
+        // return [...new Set(array)];  // new Set(array)  =>  数组    [...数组]   Array.from(set)
+        return [...new Set(array)];//Set数据结构转换成数组
+    }
+
+    function uniq2(array) {
+        //Set数据结构转换成数组    ES6数组的新增方法  Array.from()   Array.of()
+        return Array.from(new Set(array));
+    }
+
+    function sumDataByDateRange(newArr)
+    {
+        var summary = {};
+        var endDate;
+        if (newArr.length>1) //日期汇总记录必须大于1条
+        {
+            endDate = getTodayUTCDate();
+            var startDate = newArr[newArr.length-1].date;
+            var diffDayMS = endDate-startDate;
+            if (diffDayMS>=0)
+            {
+                var diffDay1 = (diffDayMS/(1000 * 60 * 60 * 24));
+                //startDate.setDate(startDate.getDate() - 30);S
+
+                var ordersTotal = newArr.reduce(function(pre, current){
+                    if(current.date >= startDate && current.date < endDate) // 小于表示当天不计算
+                    {
+                        return pre + Number(current.orders);
+                    }
+                    else
+                    {
+                        return pre;
+                    }
+                }, 0);
+                var avgOrders = ordersTotal/diffDay1;
+
+                summary.endDate = endDate;
+                summary.startDate = startDate;
+                summary.diffDaysTotal = diffDay1;
+                summary.avgOrders = avgOrders;
+                summary.ordersTotal = ordersTotal;
+                console.log("[总单量"+ordersTotal+"/"+diffDay1+"天]="+(Math.floor(avgOrders * 100) / 100)+"/天");
+
+
+                var endDate1 = getTodayUTCDate();
+                var startDate1 = endDate1 - (7*24*60*60*1000);
+                console.log("startDate:"+startDate1+", endDate:"+endDate1);
+                var ordersLast7Days = newArr.reduce(function(pre, current){
+                    if(current.date >= startDate1 && current.date < endDate1) // 小于表示当天不计算
+                    {
+                        return pre + Number(current.orders);
+                    }
+                    else
+                    {
+                        return pre;
+                    }
+                }, 0);
+
+                summary.ordersLast7Days = ordersLast7Days;
+
+                var lastDate = newArr[newArr.length-1].date;
+                console.log("lastDate: "+lastDate);
+                if (lastDate > startDate1)
+                {
+                    var diffDays = ((endDate1-lastDate)/(24*60*60*1000));
+                    summary.avgOrders7days = ordersLast7Days/diffDays;
+                    summary.diffDays = diffDays;
+                }
+                else
+                {
+                    summary.avgOrders7days = ordersLast7Days/7;
+                    summary.diffDays = 7;
+                }
+            }
+
+
+
+        }
+
+        return summary;
+    }
+
+
+    function getLocalTime(i){
+        var d = new Date();
+        var len = d.getTime();
+        //本地时间与UTC时间的时间偏移差
+        var offset = d.getTimezoneOffset() * 60000;
+        //得到现在的UTC时间，各时区UTC时间相同
+        var utcTime = len + offset;
+        //得到时区标准时间
+        return new Date(utcTime + 3600000 * i);
+
+        //得到UTC时间戳
+        //return new Date(utcTime).getTime();
+        //得到时区时间戳
+        // return new Date(utcTime + 3600000 * i).getTime();
+
+        //   console.log("东八区-北京时间：" + getLocalTime(8)); //东八区-北京时间：Wed May 25 2022 10:10:32 GMT+0800 (中国标准时间)
+        //console.log("西八区-太平洋时间（美国和加拿大）：" + getLocalTime(-8)); //西八区-太平洋时间（美国和加拿大）：Tue May 24 2022 18:10:32 GMT+0800 (中国标准时间)
+        // i：要得到那个时区的时间就传几，东区为正数，西区为负数
+    }
+
+
+    function getSiteLocalDate()
+    {
+        var date = new Date();
+        if (window.location.href.indexOf("ebay.co.uk")>= 0 ||
+                window.location.href.indexOf("EBAY-GB") >=0)
+        {
+            date =getLocalTime(1);
+        }
+        else
+        {
+            date =getLocalTime(-8);
+        }
+        return date;
+
+    }
+
+    function getTodayUTCDate()
+    {
+        var d = new Date();
+        return Date.UTC(d.getFullYear(), d.getMonth(), d.getDate());
+
+    }
+
+
+    function displaySummary(summary, $container)
+    {
+        var ds="";
+          if(window.location.href.indexOf("ebay.com") >= 0 ||
+          window.location.href.indexOf("EBAY-US") >=0 )
+        {
+            ds= new Date().toLocaleString("en-US", {timeZone:"America/Los_Angeles"});
+        }
+        else if (window.location.href.indexOf("ebay.co.uk")>= 0 ||
+                window.location.href.indexOf("EBAY-GB") >=0)
+        {
+            ds =new Date().toLocaleString("en-GB", {timeZone:"Europe/London",timeZoneName:"short"});
+        }
+         else
+        {
+             ds= new Date().toLocaleString("en-US", {timeZone:"America/Los_Angeles"});
+        }
+
+        var s = "<span>站点时间："+ds+"</span><span style='float:right;margin-right:220px'><b>["+summary.ordersTotal+"单/"+summary.diffDaysTotal+"天]=<font color='#FF0000'>"+(Math.floor(summary.avgOrders * 100) / 100)+"</font>单/天  |  </b>"+
+                          "<b>["+summary.ordersLast7Days+"单/"+summary.diffDays+"天]=<font color='#FF0000'>"+(Math.floor(summary.avgOrders7days * 100) / 100)+"</font>单/天</b></span>";
+        $container.append(s);
+    }
+
+    function creatChartData($purchaseHtml){
+        var chartData ={};
+        var jsons = [];
+        var tTable = convertPurchaseTable($purchaseHtml);
+
+        var tArray = tTable.table;
+        clearData(tArray);
+
+        // 主图表
+        var newArr = sumOrdersByDate(tArray);
+        // var last30day = newArr.filter(function(item, index){
+        //     var today = new Date();
+        //     var endDate = Date.UTC(today.getFullYear(), today.getMonth(), today.getDate());
+		// 	var startDate = endDate - (30*24*60*60*1000);
+        //     return item.date >= startDate && item.date <= endDate;
+        // });
+
+
+        var summarys = [];
+        var summary = sumDataByDateRange(newArr);
+        summarys.push(summary);
+
+        var orders = newArr.map((item, index)=>{
+            return [index] = [item.date, item.orders]
+        })
+        var lowPrice = newArr.map((item, index)=>{
+            return [index] = [item.date, item.lowPrice/100]
+        })
+
+        var series= [];
+        var json = createDefaultChartJson('汇总↓');
+        if (tTable.variation == false)
+        {
+            var orderAll = {
+                type: 'column',//'spline',
+                name: '订单量',
+                data: orders,
+                color: 'green'
+            };
+
+            var lowPriceAll = {
+                type: 'spline',
+                name: '价格',
+                yAxis:1,
+                data: lowPrice,
+                color: 'red'
+            };
+
+            series.push(orderAll);
+            series.push(lowPriceAll);
+        }
+
+        json.series = series;
+        json.yAxis[0].plotLines= [{   //一条延伸到整个绘图区的线，标志着轴中一个特定值。
+            color: '#000',
+            dashStyle: 'Dash', //Dash,Dot,Solid,默认Solid
+            width: 0.5,
+            value: (Math.floor(summary.ordersLast7Days/7 * 100) / 100),  //y轴显示位置
+            zIndex: 5
+        },{   //一条延伸到整个绘图区的线，标志着轴中一个特定值。
+            color: '#000',
+            dashStyle: 'Dot', //Dash,Dot,Solid,默认Solid
+            width: 0.5,
+            value: (Math.floor(summary.avgOrders * 100) / 100),  //y轴显示位置
+            zIndex: 5
+        }];
+        jsons.push(json);
+
+        // 增加变体曲线 //https://www.ebay.co.uk/itm/112203119031
+        var colorTable = getColorTable();
+        if (tTable.variation == true)
+        {
+            // 提取变体列 去重
+            var varColArray = uniq2(tArray.map(v => {return v.variation}));
+            //console.log(varColArray);
+
+            $.each(varColArray, function(i, v){
+                //console.log(v);
+
+                var tVarArray = tArray.filter(function(a){ return (a.variation === v) });
+                //console.log(tVarArray);
+
+                var newArr1 = sumOrdersByDate(tVarArray);
+
+                var summary1 = sumDataByDateRange(newArr1);
+                summarys.push(summary1);
+
+
+                var orders1 = newArr1.map((item, index)=>{
+                    return [index] = [item.date, item.orders]
+                })
+                var lowPrice1 = newArr1.map((item, index)=>{
+                    return [index] = [item.date, item.lowPrice/100]
+                })
+
+                // 主图堆叠
+                json.series.push({type: 'column', stacking: 'normal', name: "["+v+"]：订单量", data:orders1, color: Highcharts.getOptions().colors[i]});//colorTable[i*2]});
+                json.series.push({type: 'spline', name:"["+v+"]：价格", data:lowPrice1,yAxis:1, color: Highcharts.getOptions().colors[i]});
+                //json.chart.marginRight = "["+v+"]：订单量".length;
+
+                var series1 = [];
+                series1.push({type: 'column', stacking: 'normal', name: "["+v+"]：订单量", data:orders1, color: Highcharts.getOptions().colors[i]});//colorTable[i*2]});
+                series1.push({type: 'spline', name:"["+v+"]：价格", data:lowPrice1,yAxis:1, color: Highcharts.getOptions().colors[i]});
+
+
+                var json1 = createDefaultChartJson('变体：'+v+'↓');
+                //json1.chart.marginRight = "["+v+"]：订单量".length;
+                json1.series = series1;
+                json1.yAxis[0].tickPositioner = function(){
+                    //return $('#chart0').highcharts().get('axis1').tickPositions.slice();
+                    return Highcharts.charts[0].get('axis1').tickPositions.slice();
+                };
+                json1.xAxis.tickPositioner = function(){
+                    //return $('#chart0').highcharts().get('xAxis').tickPositions.slice();
+                    return Highcharts.charts[0].get('xAxis').tickPositions.slice();
+                };
+                json1.yAxis[0].plotLines= [{   //一条延伸到整个绘图区的线，标志着轴中一个特定值。
+                    color: '#000',
+                    dashStyle: 'Dash', //Dash,Dot,Solid,默认Solid
+                    width: 0.5,
+                    value: (Math.floor(summary1.ordersLast7Days/7 * 100) / 100),  //y轴显示位置
+                    zIndex: 5
+                },{   //一条延伸到整个绘图区的线，标志着轴中一个特定值。
+                    color: '#000',
+                    dashStyle: 'Dot', //Dash,Dot,Solid,默认Solid
+                    width: 0.5,
+                    value: (Math.floor(summary1.avgOrders * 100) / 100),  //y轴显示位置
+                    zIndex: 5
+                }];
+                jsons.push(json1);
+            });
+
+        }
+
+        chartData.jsons = jsons;
+        chartData.summarys = summarys;
+
+
+        return chartData;
+    }
+
+    // parseHtml 数据源
+    // $elmMount 挂载节点
+    // chartMainId 命名空间
+    function purchaseTrendsMountTo($html, $container, itemid){
+        var chartData = creatChartData($html);
+        var jsons = chartData.jsons;
+        //console.dir(JSON.stringify(jsons[0]));
+
+        var chartHideAllBtn = 'chartHideAll'+itemid;
+        var chartShowAllBtn = 'chartShowAll'+itemid;
+        var chartAllWrap = 'chartAllWrap'+itemid;
+
+        // 控制按钮栏位 全部显示/隐藏按钮
+        $container.append("<button id='"+chartHideAllBtn+"' style='padding:5px 10px;margin: 10px;'>全隐</button>");
+        $('#'+chartHideAllBtn).click(function(){
+            $('#'+chartAllWrap).children("div").hide();
+        });
+        $container.append("<button id='"+chartShowAllBtn+"' style='padding:5px 10px;margin: 10px;'>全显</button>");
+        $('#'+chartShowAllBtn).click(function(){
+            $('#'+chartAllWrap).children("div").show();
+        });
+
+        // 控制按钮栏位 变体按钮
+        $.each(jsons, function(index, item) {
+            //console.dir(JSON.stringify(item));
+            var chartToggleBtn = 'chartShowBtn'+itemid+index;
+            $container.append("<button id='"+chartToggleBtn + "' style='padding:5px;margin: 10px;'>"+item.title.text+"</button>");
+            $('#'+chartToggleBtn).click({chartDivId: '#chart'+itemid+index},function(e){
+                $(e.data.chartDivId).toggle();
+            });
+        });
+
+        // 创建容器，挂载图表
+        $container.append("<div id='"+chartAllWrap+"'></div>");
+        $.each(jsons, function(index, item) {
+            var $chartDiv;
+            if (index == 0) //第一个表显示
+            {
+                $chartDiv = $("<div id='chart" +itemid+ index + "'></div>");
+            }
+            else // 其他隐藏
+            {
+                $chartDiv = $("<div id='chart" + itemid + index + "'  style='display:none'></div>");
+            }
+
+            $('#'+chartAllWrap).append($chartDiv);
+            $chartDiv.highcharts(item);
+            displaySummary(chartData.summarys[index], $chartDiv);
+        });
+
+    }
+
+
+    function buildPurchaseHistoryUrl(ebaySite, itemid)
+    {
+        var url = "";
+        if (ebaySite == "EBAY-US")
+        {
+            url = "https://www.ebay.com/bin/purchaseHistory?item="+itemid;
+        }
+        else if (ebaySite == "EBAY-UK")
+        {
+            url = "https://www.ebay.co.uk/bin/purchaseHistory?item="+itemid;
+        }
+        else
+        {
+            debugger
+        }
+
+
+
+        return url;
+
+
+    }
+
+
+    function purchaseTrendsMountToByItemId(ebaySite, itemid, $container)
+    {
+        var url = buildPurchaseHistoryUrl(ebaySite, itemid);
+
+        $.get(url, function(html){
+            var $html = $(html);
+            purchaseTrendsMountTo($html, $container, itemid);
+        });
+    }
+
+    function purchaseTrendsMountToByItemIdCROS(ebaySite, itemid, $container)
+    {
+        var url = buildPurchaseHistoryUrl(ebaySite, itemid);
+        
+        GM_xmlhttpRequest({
+            url: url,
+            responseType: "document",
+            headers:{'overrideMimeType': 'text/html;'},
+            onload: function(res){
+                //console.log(res.responseText);
+                var $html = $(res.responseText);
+                purchaseTrendsMountTo($html, $container,itemid);
+            },
+        });
+
+    }
+
+
+    function SellerInfoMountToByUrl(url, $container)
+    {
+        $.get(url, function(html){
+            //console.log($(html).find('.mem_loc').text());
+            var info = $(html).find('#member_info').text();
+            var sinceAt = info.indexOf('since:');
+            $container.append('<font color="#FF0000">'+ info.substring(sinceAt+'since:'.length)+'</font>');
+        });
+    }
+
+
+    function getEbaySiteString(url)
+    {
+        return url.indexOf('ebay.com') >= 0 ? "EBAY-US":"EBAY-UK";
+    }
+   
+
+
+
+    
+
+
+    //===========================================================================================库函数 结束=============================================================================== //

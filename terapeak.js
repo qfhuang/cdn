@@ -1,8 +1,361 @@
-/***************************************************************************/
-/*                                                                         */
-/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
-/*  Javascript Obfuscator Free Version can be downloaded here              */
-/*  http://javascriptobfuscator.com                                        */
-/*                                                                         */
-/***************************************************************************/
-var _$_e0df=["?","split","href","location","","parseParams","log","tabName","SOLD","<th>Control</th>","after","th.research-table-header__date-last-sold","<td><button class=\'showChart\'>\u663e\u793a</button></td>","append",".research-table-row","tr","closest","data-item-id","attr",".research-table-row__product-info-name span","find","length","#a","-seller","<tr class=\'research-table-row\'>","<td class=\'research-table-row__item\'><div id=\'a","-seller\'><span id=\'a","-score\'></span></div><div id=\'a","-location\'></div><div id=\'a","-since\'></div><div id=\'a","-feedback\'></div><div id=\'a","-itemofseller\'></div></td>","<td class=\'research-table-row__item\'></td>","<td class=\'research-table-row__item\'><div class=\'research-table-row__item-with-subtitle\'><div id=\'a","-listingPrice\'></div><div id=\'a","-listingShipping\'></div><div id=\'a","-topRatedSeller\'></div></td>","-promoted\'></div></td>","-watchers\'></div></td>","<td class=\'research-table-row__item\'><div class=\'\'><div id=\'a","-rest\'></div></div></td>","<td class=\'research-table-row__item\'><div class=\'research-table-row__inner-item\'><span>\u4e0a\u67b6\uff1a</span><span id=\'a","-startdate\'></span></div><div id=\'a","-listingdays\'></div></td>","</tr>","ebay.com","indexOf","getDate","setDate","https://www.ebay.com/itm/","https://www.ebay.com/sh/research/api/search?marketplace=EBAY-US&keywords=","&dayRange=365&endDate=","getTime","&startDate=","&tabName=ACTIVE&tz=Asia%2FShanghai&modules=aggregates&modules=searchResults&modules=resultsHeader","https://www.ebay.co.uk/itm/","https://www.ebay.co.uk/sh/research/api/search?marketplace=EBAY-UK&keywords=","GET","(",")","responseText","\x0A","startWith","parseJSON","results","text","textSpans","startDate","-startdate",".research-table-row__dateLastSold","\u5929)","-listingdays","listingPrice","listingShipping","topRatedSeller","icon","promoted","name","tick","\u221a","-","watchers","-listingPrice","-listingShipping","-topRatedSeller","promoted: ","-promoted","watchers: ","-watchers","ajax",".ux-seller-section__content",".ux-seller-section__item--seller a",".ux-seller-section__item--directFromBrand a","outerHTML","prop","prepend","(\u2605","eq","-score",".x-about-this-seller:eq(0) .ux-seller-section__item:eq(1)","-feedback","#member_info","since:","<font color=\"#FF0000\">","substring","</font>","-location","parent",".soi_lk","-itemofseller",".str-about-description__seller-info .str-text-span.BOLD","-since","get","-chart","co.uk","https://www.ebay.co.uk/bin/purchaseHistory?item=","https://www.ebay.com/bin/purchaseHistory?item=","<tr class=\'research-table-row\'><td colspan=\'9\'><div id=\'a","-chart\'></div></td></tr>","toggle","click",".showChart","ACTIVE","th.active-listing-table-header__startedDate",".active-listing-row",".active-listing-row__item .active-listing-row__link-row-anchor span","<tr class=\'active-listing-row\'>","<td><div id=\'a","-seller\'></div></td>","-location\'></div></td>","-since\'></div></td>","-score\'></div></td>","-feedback\'></div></td>","<td colspan=\'2\'><div id=\'a","-rest\'></div></td>","\u2605)","<tr class=\'active-listing-row\'><td colspan=\'9\'><div id=\'a","sh/research",".research-container","querySelector","type","childList","role","target","tablist","addedNodes","takeRecords","attributes","tabpanel","attributeName","hidden","observe"];function hookResearchTable(){var _0xC966=$[_$_e0df[5]](window[_$_e0df[3]][_$_e0df[2]][_$_e0df[1]](_$_e0df[0])[1]|| _$_e0df[4]);console[_$_e0df[6]](_0xC966);if(_0xC966[_$_e0df[7]]=== _$_e0df[8]){$(_$_e0df[11])[_$_e0df[10]](_$_e0df[9]);$(_$_e0df[14])[_$_e0df[13]]($(_$_e0df[12]));$(_$_e0df[121])[_$_e0df[120]](function(){var _0xCAC4=$(this)[_$_e0df[16]](_$_e0df[15]);var _0xB7A0=_0xCAC4[_$_e0df[20]](_$_e0df[19])[_$_e0df[18]](_$_e0df[17]);if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[21]]== 0){_0xCAC4[_$_e0df[10]](_$_e0df[24]+ _$_e0df[25]+ _0xB7A0+ _$_e0df[26]+ _0xB7A0+ _$_e0df[27]+ _0xB7A0+ _$_e0df[28]+ _0xB7A0+ _$_e0df[29]+ _0xB7A0+ _$_e0df[30]+ _0xB7A0+ _$_e0df[31]+ _$_e0df[32]+ _$_e0df[33]+ _0xB7A0+ _$_e0df[34]+ _0xB7A0+ _$_e0df[35]+ _0xB7A0+ _$_e0df[36]+ _$_e0df[25]+ _0xB7A0+ _$_e0df[37]+ _$_e0df[25]+ _0xB7A0+ _$_e0df[38]+ _$_e0df[39]+ _0xB7A0+ _$_e0df[40]+ _$_e0df[32]+ _$_e0df[41]+ _0xB7A0+ _$_e0df[42]+ _0xB7A0+ _$_e0df[43]+ _$_e0df[32]+ _$_e0df[44]);var _0xCB0A=window[_$_e0df[3]][_$_e0df[2]][_$_e0df[46]](_$_e0df[45]);var _0xCA38=_$_e0df[4];var _0xC9AC=_$_e0df[4];var _0xC9F2= new Date();var _0xCA7E= new Date();_0xCA7E[_$_e0df[48]](_0xCA7E[_$_e0df[47]]()- 365);if(_0xCB0A> 0){_0xCA38= _$_e0df[49]+ _0xB7A0;_0xC9AC= _$_e0df[50]+ _0xB7A0+ _$_e0df[51]+ _0xC9F2[_$_e0df[52]]()+ _$_e0df[53]+ _0xCA7E[_$_e0df[52]]()+ _$_e0df[54]}else {_0xCA38= _$_e0df[55]+ _0xB7A0;_0xC9AC= _$_e0df[56]+ _0xB7A0+ _$_e0df[51]+ _0xC9F2[_$_e0df[52]]()+ _$_e0df[53]+ _0xCA7E[_$_e0df[52]]()+ _$_e0df[54]};$[_$_e0df[89]]({url:_0xC9AC,type:_$_e0df[57],success:function(data){json= eval(_$_e0df[58]+ data+ _$_e0df[59]);console[_$_e0df[6]](json);return true},error:function(_0xCC22){if(_0xCC22[_$_e0df[60]]!= _$_e0df[4]){var _0xCDC6=_0xCC22[_$_e0df[60]];var _0xCD3A=`{"__type":"ActiveSearchResultsModule"`;var _0xC920=_0xCDC6[_$_e0df[46]](_0xCD3A);if(_0xC920> 0){var _0xBFD4=_0xCDC6[_$_e0df[1]](_$_e0df[61]);var _0xCC68=_$_e0df[4];for(var _0xBDA4=0;_0xBDA4< _0xBFD4[_$_e0df[21]];_0xBDA4++){if(_0xBFD4[_0xBDA4][_$_e0df[62]](_0xCD3A)){_0xCC68= _0xBFD4[_0xBDA4];break}};var _0xBAE8=$[_$_e0df[63]](_0xCC68);var data=_0xBAE8[_$_e0df[64]][0];console[_$_e0df[6]](data);var _0xCA7E=data[_$_e0df[67]][_$_e0df[66]][0][_$_e0df[65]];$(_$_e0df[22]+ _0xB7A0+ _$_e0df[68])[_$_e0df[13]](_0xCA7E);var _0xCBDC= new Date(_0xCAC4[_$_e0df[20]](_$_e0df[69])[_$_e0df[65]]());var _0xCB50= new Date(_0xCA7E);console[_$_e0df[6]](_0xCB50);console[_$_e0df[6]](_0xCBDC);var _0xCB96=((_0xCBDC[_$_e0df[52]]()- _0xCB50[_$_e0df[52]]())/ (24* 60* 60* 1000))+ 1;$(_$_e0df[22]+ _0xB7A0+ _$_e0df[71])[_$_e0df[13]](_$_e0df[58]+ _0xCB96+ _$_e0df[70]);var _0xCCAE=data[_$_e0df[72]][_$_e0df[72]][_$_e0df[66]][0][_$_e0df[65]];var _0xCCF4=data[_$_e0df[72]][_$_e0df[73]][_$_e0df[66]][0][_$_e0df[65]];var _0xCE0C=_$_e0df[4];if(data[_$_e0df[72]][_$_e0df[74]]){_0xCE0C= data[_$_e0df[72]][_$_e0df[74]][_$_e0df[66]][0][_$_e0df[65]]};var _0xCD80=_$_e0df[4];if(data[_$_e0df[76]][_$_e0df[75]]){_0xCD80= data[_$_e0df[76]][_$_e0df[75]][_$_e0df[77]]=== _$_e0df[78]?_$_e0df[79]:_$_e0df[80]}else {_0xCD80= data[_$_e0df[76]][_$_e0df[65]][_$_e0df[66]][0][_$_e0df[65]]};var _0xCE52=data[_$_e0df[81]][_$_e0df[66]][0][_$_e0df[65]];$(_$_e0df[22]+ _0xB7A0+ _$_e0df[82])[_$_e0df[13]](_0xCCAE);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[83])[_$_e0df[13]](_0xCCF4);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[84])[_$_e0df[13]](_0xCE0C);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[86])[_$_e0df[13]](_$_e0df[85]+ _0xCD80);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[88])[_$_e0df[13]](_$_e0df[87]+ _0xCE52)}}}});$[_$_e0df[112]](_0xCA38,function(_0xCE98){var _0xCEDE=$(_0xCE98)[_$_e0df[20]](_$_e0df[90]);var _0xCF6A=$(_0xCEDE)[_$_e0df[20]](_$_e0df[91]);if(_0xCF6A[_$_e0df[21]]== 0){_0xCF6A= $(_0xCEDE)[_$_e0df[20]](_$_e0df[92])};$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[95]](_0xCF6A[_$_e0df[94]](_$_e0df[93]));var _0xCF24=_0xCF6A[_$_e0df[18]](_$_e0df[2]);console[_$_e0df[6]](_0xCF24);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[98])[_$_e0df[13]](_$_e0df[96]+ _0xCEDE[_$_e0df[20]](_$_e0df[91])[_$_e0df[97]](1)[_$_e0df[65]]()+ _$_e0df[59]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[100])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[99])[_$_e0df[65]]());$[_$_e0df[112]](_0xCF24,function(_0xCE98){if(_0xCB0A> 0){var _0xCFB0=$(_0xCE98)[_$_e0df[20]](_$_e0df[101])[_$_e0df[65]]();var _0xD03C=_0xCFB0[_$_e0df[46]](_$_e0df[102]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[106])[_$_e0df[13]](_$_e0df[103]+ _0xCFB0[_$_e0df[104]](_0xD03C+ _$_e0df[102][_$_e0df[21]])+ _$_e0df[105]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[109])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[108])[_$_e0df[107]]())}else {var _0xCFF6=$(_0xCE98)[_$_e0df[20]](_$_e0df[110]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[111])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[110])[_$_e0df[97]](1)[_$_e0df[65]]());$(_$_e0df[22]+ _0xB7A0+ _$_e0df[106])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[110])[_$_e0df[97]](0)[_$_e0df[65]]())}})});if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[21]]== 0){var _0xB7E6=_$_e0df[4];if(window[_$_e0df[3]][_$_e0df[2]][_$_e0df[46]](_$_e0df[114])> 0){_0xB7E6= _$_e0df[115]+ _0xB7A0}else {_0xB7E6= _$_e0df[116]+ _0xB7A0};$[_$_e0df[112]](_0xB7E6,function(_0xCE98){$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[16]](_$_e0df[15])[_$_e0df[10]]($(_$_e0df[117]+ _0xB7A0+ _$_e0df[118]));console[_$_e0df[6]](_0xB7A0);var $html=$(_0xCE98);purchaseTrendsMountTo($html,$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113]),_0xB7A0)})}else {$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]()}}else {$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]();if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[21]]> 0){$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]()}}})}else {if(_0xC966[_$_e0df[7]]=== _$_e0df[122]){console[_$_e0df[6]](_0xC966[_$_e0df[7]]);$(_$_e0df[123])[_$_e0df[10]](_$_e0df[9]);$(_$_e0df[124])[_$_e0df[13]]($(_$_e0df[12]));$(_$_e0df[121])[_$_e0df[120]](function(){var _0xCAC4=$(this)[_$_e0df[16]](_$_e0df[15]);var _0xB7A0=_0xCAC4[_$_e0df[20]](_$_e0df[125])[_$_e0df[18]](_$_e0df[17]);if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[21]]== 0){_0xCAC4[_$_e0df[10]]($(_$_e0df[126]+ _$_e0df[127]+ _0xB7A0+ _$_e0df[128]+ _$_e0df[127]+ _0xB7A0+ _$_e0df[129]+ _$_e0df[127]+ _0xB7A0+ _$_e0df[130]+ _$_e0df[127]+ _0xB7A0+ _$_e0df[131]+ _$_e0df[127]+ _0xB7A0+ _$_e0df[132]+ _$_e0df[133]+ _0xB7A0+ _$_e0df[134]+ _$_e0df[44]));var _0xCB0A=window[_$_e0df[3]][_$_e0df[2]][_$_e0df[46]](_$_e0df[45]);var _0xCA38=_$_e0df[4];if(_0xCB0A> 0){_0xCA38= _$_e0df[49]+ _0xB7A0}else {_0xCA38= _$_e0df[55]+ _0xB7A0};$[_$_e0df[112]](_0xCA38,function(_0xCE98){var _0xCEDE=$(_0xCE98)[_$_e0df[20]](_$_e0df[90]);var _0xCF6A=$(_0xCEDE)[_$_e0df[20]](_$_e0df[91]);if(_0xCF6A[_$_e0df[21]]== 0){_0xCF6A= $(_0xCEDE)[_$_e0df[20]](_$_e0df[92])};$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[13]](_0xCF6A[_$_e0df[94]](_$_e0df[93]));var _0xCF24=_0xCF6A[_$_e0df[18]](_$_e0df[2]);console[_$_e0df[6]](_0xCF24);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[98])[_$_e0df[13]](_$_e0df[58]+ _0xCEDE[_$_e0df[20]](_$_e0df[91])[_$_e0df[97]](1)[_$_e0df[65]]()+ _$_e0df[135]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[100])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[99])[_$_e0df[65]]());$[_$_e0df[112]](_0xCF24,function(_0xCE98){var _0xCFF6=$(_0xCE98)[_$_e0df[20]](_$_e0df[110]);$(_$_e0df[22]+ _0xB7A0+ _$_e0df[111])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[110])[_$_e0df[97]](1)[_$_e0df[65]]());$(_$_e0df[22]+ _0xB7A0+ _$_e0df[106])[_$_e0df[13]]($(_0xCE98)[_$_e0df[20]](_$_e0df[110])[_$_e0df[97]](0)[_$_e0df[65]]())})});if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[21]]== 0){var _0xB7E6=_$_e0df[4];if(window[_$_e0df[3]][_$_e0df[2]][_$_e0df[46]](_$_e0df[114])> 0){_0xB7E6= _$_e0df[115]+ _0xB7A0}else {_0xB7E6= _$_e0df[116]+ _0xB7A0};$[_$_e0df[112]](_0xB7E6,function(_0xCE98){$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[16]](_$_e0df[15])[_$_e0df[10]]($(_$_e0df[136]+ _0xB7A0+ _$_e0df[118]));console[_$_e0df[6]](_0xB7A0);var $html=$(_0xCE98);purchaseTrendsMountTo($html,$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113]),_0xB7A0)})}else {$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]()}}else {$(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]();if($(_$_e0df[22]+ _0xB7A0+ _$_e0df[23])[_$_e0df[21]]> 0){$(_$_e0df[22]+ _0xB7A0+ _$_e0df[113])[_$_e0df[16]](_$_e0df[15])[_$_e0df[119]]()}}})}}}function terapeakMain(_0xC47A,_0xB642){var _0xC920=window[_$_e0df[3]][_$_e0df[2]][_$_e0df[46]](_$_e0df[137]);if(_0xC920> 0){var _0xC592=document[_$_e0df[139]](_$_e0df[138]);var _0xC506={childList:true,subtree:true,attributes:true};var _0xC4C0=function(_0xC61E,_0xC54C){for(var _0xC5D8 of _0xC61E){if(_0xC5D8[_$_e0df[140]]== _$_e0df[141]){if($(_0xC5D8[_$_e0df[143]])[_$_e0df[18]](_$_e0df[142])== _$_e0df[144]&& _0xC5D8[_$_e0df[145]][_$_e0df[21]]> 0){hookResearchTable();_0xC54C[_$_e0df[146]]();break}}else {if(_0xC5D8[_$_e0df[140]]== _$_e0df[147]){if($(_0xC5D8[_$_e0df[143]])[_$_e0df[18]](_$_e0df[142])== _$_e0df[148]&& _0xC5D8[_$_e0df[149]]== _$_e0df[150]){hookResearchTable();_0xC54C[_$_e0df[146]]();break}}}}};var _0xC54C= new MutationObserver(_0xC4C0);_0xC54C[_$_e0df[151]](_0xC592,_0xC506)}}
+
+function hookResearchTable()
+{
+    var param = $.parseParams(window.location.href.split('?')[1] || '');
+    console.log(param);
+    if (param.tabName === "SOLD")
+    {
+        //给表格添加操作按钮
+        $('th.research-table-header__date-last-sold').after("<th>Control</th>");
+        $('.research-table-row').append($("<td><button class='showChart'>显示</button></td>"));
+        $('.showChart').click(function(){
+            var tr = $(this).closest('tr');
+            var itemid = tr.find(".research-table-row__product-info-name span").attr('data-item-id');
+
+            if($("#a"+itemid+"-seller").length == 0) //是否存在节点
+            {
+            
+                tr.after("<tr class='research-table-row'>"+
+
+                        "<td class='research-table-row__item'><div id='a" + itemid + "-seller'><span id='a" + itemid + "-score'></span></div><div id='a" + itemid + "-location'></div><div id='a" + itemid + "-since'></div><div id='a" + itemid + "-feedback'></div><div id='a" + itemid + "-itemofseller'></div></td>"+
+                        "<td class='research-table-row__item'></td>"+
+                        "<td class='research-table-row__item'><div class='research-table-row__item-with-subtitle'><div id='a" + itemid + "-listingPrice'></div><div id='a" + itemid + "-listingShipping'></div><div id='a" + itemid + "-topRatedSeller'></div></td>"+
+                        "<td class='research-table-row__item'><div id='a" + itemid + "-promoted'></div></td>"+
+                        "<td class='research-table-row__item'><div id='a" + itemid + "-watchers'></div></td>"+
+                        "<td class='research-table-row__item'><div class=''><div id='a" + itemid + "-rest'></div></div></td>"+
+                        "<td class='research-table-row__item'></td>"+
+                        "<td class='research-table-row__item'><div class='research-table-row__inner-item'><span>上架：</span><span id='a" + itemid + "-startdate'></span></div><div id='a" + itemid + "-listingdays'></div></td>"+
+                        "<td class='research-table-row__item'></td>"+
+                        "</tr>"); // 创建挂载点 卖家信息
+
+                // 查询卖家信息 https://www.ebay.com/usr/myre_link?_trksid=p2047675.m3561.l2559
+                var US = window.location.href.indexOf('ebay.com');
+                var listing = "";
+                var active_info_url="";
+                var endDate = new Date();
+                var startDate = new Date();
+                startDate.setDate(startDate.getDate()-365);
+
+                if (US > 0)
+                {
+                    listing = "https://www.ebay.com/itm/"+itemid;
+                    active_info_url = "https://www.ebay.com/sh/research/api/search?marketplace=EBAY-US&keywords="+itemid+"&dayRange=365&endDate="+endDate.getTime()+"&startDate="+startDate.getTime()+"&tabName=ACTIVE&tz=Asia%2FShanghai&modules=aggregates&modules=searchResults&modules=resultsHeader";
+                }
+                else
+                {
+                    listing = "https://www.ebay.co.uk/itm/"+itemid;
+                    active_info_url = "https://www.ebay.co.uk/sh/research/api/search?marketplace=EBAY-UK&keywords="+itemid+"&dayRange=365&endDate="+endDate.getTime()+"&startDate="+startDate.getTime()+"&tabName=ACTIVE&tz=Asia%2FShanghai&modules=aggregates&modules=searchResults&modules=resultsHeader";
+                }
+
+                $.ajax({
+                    url: active_info_url,
+                    type: "GET",
+                    success: function(data){
+                        //假设返回的json数据里有status及info2个属性
+                        //有时候可以直接ajaxobj.status或者ajaxobj["status"]去访问
+                        //但有时候，却要通过eval()或者 $.parsejson();才可以通过ajaxobj.status访问，而且这种情况下，需要是complete而不是success
+                        json=eval("("+data+")");
+                        //或者$.parsejson()
+                        //var ajaxobj = $.parsejson(data);
+
+                            console.log(json);
+                        return true;
+                    },
+                    error:function(error)
+                    {
+                        if(error.responseText!='')
+                        {
+                            var text = error.responseText;
+                            //console.log(error.responseText);
+                            var matchStr = `{"__type":"ActiveSearchResultsModule"`;
+                            var start = text.indexOf(matchStr);
+                            if (start>0)
+                            {
+                                //var resTxt = text.substring(start);
+                                //console.log(resTxt);
+
+                                //var json = $.parseJSON(resTxt);
+                            var a = text.split("\n");
+                            var foundStr="";
+                            for(var i =0; i<a.length; i++)
+                            {
+                                if (a[i].startWith(matchStr))
+                                {
+                                    foundStr = a[i];
+                                    break;
+                                }
+                            }
+
+                                var json = $.parseJSON(foundStr);
+                                //console.log(json);
+
+                                var data = json.results[0];
+                                console.log(data);
+                                var startDate = data.startDate.textSpans[0].text;
+                                $("#a"+itemid+"-startdate").append(startDate);
+
+                                var end = new Date(tr.find(".research-table-row__dateLastSold").text());
+                                var begin = new Date(startDate);
+                                console.log(begin);
+                                console.log(end);
+                                var diffdays = ((end.getTime()-begin.getTime())/(24*60*60*1000))+1;
+                                $("#a"+itemid+"-listingdays").append("("+diffdays+"天)");
+
+                                var listingPrice = data.listingPrice.listingPrice.textSpans[0].text;
+                                var listingShipping = data.listingPrice.listingShipping.textSpans[0].text;
+
+                                var topRatedSeller="";
+                                if (data.listingPrice.topRatedSeller)
+                                {
+                                    topRatedSeller =data.listingPrice.topRatedSeller.textSpans[0].text;
+                                }
+
+                                var promoted="";
+                                if(data.promoted.icon)
+                                {
+                                    promoted=data.promoted.icon.name === "tick"?"√":"-";
+                                }
+                                else
+                                {
+                                    promoted=data.promoted.text.textSpans[0].text;
+                                }
+                                var watchers=data.watchers.textSpans[0].text;
+
+                                $("#a"+itemid+"-listingPrice").append(listingPrice);
+                                $("#a"+itemid+"-listingShipping").append(listingShipping);
+                                $("#a"+itemid+"-topRatedSeller").append(topRatedSeller);
+                                $("#a"+itemid+"-promoted").append("promoted: "+promoted);
+                                $("#a"+itemid+"-watchers").append("watchers: "+watchers);
+
+                            }
+
+                        }
+
+
+
+                    }
+                });
+
+                $.get(listing, function(html){
+                    //console.log(html);
+                    var sellerContent = $(html).find(".ux-seller-section__content");
+                    var sellerNameA = $(sellerContent).find(".ux-seller-section__item--seller a");
+                    if (sellerNameA.length == 0)
+                    {
+                        sellerNameA = $(sellerContent).find(".ux-seller-section__item--directFromBrand a");
+                    }
+                    $("#a"+itemid+"-seller").prepend(sellerNameA.prop("outerHTML")); // 挂载卖家名字
+                    //var sellerNameText = sellerNameA.text();
+                    var sellerHref = sellerNameA.attr("href");
+
+                    console.log(sellerHref);
+                    $("#a"+itemid+"-score").append("(★"+sellerContent.find('.ux-seller-section__item--seller a').eq(1).text()+")");
+                    $("#a"+itemid+"-feedback").append($(html).find('.x-about-this-seller:eq(0) .ux-seller-section__item:eq(1)').text());
+
+
+                    $.get(sellerHref, function(html){
+                        if (US>0)
+                        {
+                            var info = $(html).find('#member_info').text();
+                            var sinceAt = info.indexOf('since:');
+                            $("#a"+itemid+"-location").append('<font color="#FF0000">'+ info.substring(sinceAt+'since:'.length)+'</font>');
+                            $("#a"+itemid+"-itemofseller").append($(html).find('.soi_lk').parent());
+                        }
+                        else
+                        {
+                            var sellerInfo = $(html).find(".str-about-description__seller-info .str-text-span.BOLD");
+                            //$("#a"+itemid+"-seller").append(sellerInfo);
+
+                            $("#a"+itemid+"-since").append($(html).find(".str-about-description__seller-info .str-text-span.BOLD").eq(1).text());
+                            $("#a"+itemid+"-location").append($(html).find(".str-about-description__seller-info .str-text-span.BOLD").eq(0).text());
+                        }
+                    });
+
+
+                });
+
+                if($("#a"+itemid+"-chart").length == 0) // 是否存在节点
+                {
+                    var url = "";
+                    if (window.location.href.indexOf("co.uk") > 0)
+                    {
+                        url = "https://www.ebay.co.uk/bin/purchaseHistory?item="+itemid;
+                    } else {
+                        url = "https://www.ebay.com/bin/purchaseHistory?item="+itemid;
+                    }
+                    $.get(url, function(html){
+                        //$('#container').remove();
+                        //mountTo(html, $('.carouselWrapper'));
+                        $("#a"+itemid+"-seller").closest('tr').after($("<tr class='research-table-row'><td colspan='9'><div id='a" + itemid + "-chart'></div></td></tr>")); // 创建挂载点 图表
+                        console.log(itemid);
+                        var $html = $(html);
+                        purchaseTrendsMountTo($html, $('#a' + itemid+"-chart"),itemid);
+                    });
+                }
+                else
+                {
+                    $("#a"+itemid+"-chart").closest('tr').toggle();
+                }
+            }
+            else
+            {
+                $("#a"+itemid+"-seller").closest('tr').toggle();
+                if($("#a"+itemid+"-seller").length > 0)
+                {
+                    $("#a"+itemid+"-chart").closest('tr').toggle();
+                }
+            } });
+
+    }
+    else if (param.tabName === "ACTIVE")
+    {
+        console.log(param.tabName);
+        //给表格添加操作按钮
+        $('th.active-listing-table-header__startedDate').after("<th>Control</th>");
+        $('.active-listing-row').append($("<td><button class='showChart'>显示</button></td>"));
+        $('.showChart').click(function(){
+            var tr = $(this).closest('tr');
+            var itemid = tr.find(".active-listing-row__item .active-listing-row__link-row-anchor span").attr('data-item-id');
+
+            if($("#a"+itemid+"-seller").length == 0) //是否存在节点
+            {
+                tr.after($("<tr class='active-listing-row'>"+
+                        "<td><div id='a" + itemid + "-seller'></div></td>"+
+                        "<td><div id='a" + itemid + "-location'></div></td>"+
+                        "<td><div id='a" + itemid + "-since'></div></td>"+
+                        "<td><div id='a" + itemid + "-score'></div></td>"+
+                        "<td><div id='a" + itemid + "-feedback'></div></td>"+
+                        "<td colspan='2'><div id='a" + itemid + "-rest'></div></td>"+
+                        "</tr>")); // 创建挂载点 卖家信息
+                // 查询卖家信息 https://www.ebay.com/usr/myre_link?_trksid=p2047675.m3561.l2559
+                var US = window.location.href.indexOf('ebay.com');
+                var listing = "";
+                if (US > 0)
+                {
+                    listing = "https://www.ebay.com/itm/"+itemid;
+                }
+                else
+                {
+                    listing = "https://www.ebay.co.uk/itm/"+itemid;
+                }
+
+                // 根据itemid获取卖家名字
+                $.get(listing, function(html){
+                    //console.log(html);
+                    var sellerContent = $(html).find(".ux-seller-section__content");
+                    var sellerNameA = $(sellerContent).find(".ux-seller-section__item--seller a");
+                    if (sellerNameA.length == 0)
+                    {
+                        sellerNameA = $(sellerContent).find(".ux-seller-section__item--directFromBrand a");
+                    }
+                    $("#a"+itemid+"-seller").append(sellerNameA.prop("outerHTML")); // 挂载卖家名字
+                    //var sellerNameText = sellerNameA.text();
+                    var sellerHref = sellerNameA.attr("href");
+
+                    console.log(sellerHref);
+                    $("#a"+itemid+"-score").append("("+sellerContent.find('.ux-seller-section__item--seller a').eq(1).text()+"★)");
+                    $("#a"+itemid+"-feedback").append($(html).find('.x-about-this-seller:eq(0) .ux-seller-section__item:eq(1)').text());
+
+
+                    // 获取卖家开店日期和地址 https://www.ebay.co.uk/str/sellerName#tab1
+                    $.get(sellerHref, function(html){
+                        var sellerInfo = $(html).find(".str-about-description__seller-info .str-text-span.BOLD");
+                        //$("#a"+itemid+"-seller").append(sellerInfo);
+
+                        $("#a"+itemid+"-since").append($(html).find(".str-about-description__seller-info .str-text-span.BOLD").eq(1).text());
+                        $("#a"+itemid+"-location").append($(html).find(".str-about-description__seller-info .str-text-span.BOLD").eq(0).text());
+                    });
+
+                });
+
+                if($("#a"+itemid+"-chart").length == 0) // 是否存在节点
+                {
+                    var url = "";
+                    if (window.location.href.indexOf("co.uk") > 0)
+                    {
+                        url = "https://www.ebay.co.uk/bin/purchaseHistory?item="+itemid;
+                    } else {
+                        url = "https://www.ebay.com/bin/purchaseHistory?item="+itemid;
+                    }
+                    $.get(url, function(html){
+                        //$('#container').remove();
+                        //mountTo(html, $('.carouselWrapper'));
+                        $("#a"+itemid+"-seller").closest('tr').after($("<tr class='active-listing-row'><td colspan='9'><div id='a" + itemid + "-chart'></div></td></tr>")); // 创建挂载点 图表
+                        console.log(itemid);
+                        var $html = $(html);
+                        purchaseTrendsMountTo($html, $('#a' + itemid+"-chart"),itemid);
+                    });
+
+
+
+                }
+                else
+                {
+                    $("#a"+itemid+"-chart").closest('tr').toggle();
+                }
+            }
+            else
+            {
+                $("#a"+itemid+"-seller").closest('tr').toggle();
+                if($("#a"+itemid+"-seller").length > 0)
+                {
+                    $("#a"+itemid+"-chart").closest('tr').toggle();
+                }
+            } });
+
+
+    }
+
+}
+
+
+function terapeakMain(location, params)
+{
+
+
+    var start = window.location.href.indexOf('sh/research');
+    if (start >0)
+    {
+        // 在Terapeak页面
+        //hookResearchTable();
+        //setTimeout(hookResearchTable, 2000);
+
+        //选择一个需要观察的节点
+        var targetNode = document.querySelector('.research-container');
+
+        // 设置observer的配置选项
+        var config = { childList: true, subtree:true,attributes:true};
+
+        // 当节点发生变化时的需要执行的函数
+        var callback = function(mutationsList, observer) {
+
+            for(var mutation of mutationsList) {
+
+                if (mutation.type == 'childList') {
+                    //console.log(mutation);
+                    if ($(mutation.target).attr("role") == 'tablist' && mutation.addedNodes.length>0)
+                    {
+                        hookResearchTable(); // 重新调用 foo （准确地说是将 foo 加入任务队列）
+                        observer.takeRecords();
+                        break;
+                    }
+                }
+                else if (mutation.type == 'attributes')
+                {
+                    if ($(mutation.target).attr("role") == 'tabpanel' && mutation.attributeName== "hidden")
+                    {
+                        hookResearchTable();
+                        observer.takeRecords();
+                        break;
+                    }
+                }
+            }
+        };
+
+        // 创建一个observer示例与回调函数相关联
+        var observer = new MutationObserver(callback);
+
+        //使用配置文件对目标节点进行观测
+        observer.observe(targetNode, config);
+    }
+}

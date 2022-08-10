@@ -1,8 +1,220 @@
-/***************************************************************************/
-/*                                                                         */
-/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
-/*  Javascript Obfuscator Free Version can be downloaded here              */
-/*  http://javascriptobfuscator.com                                        */
-/*                                                                         */
-/***************************************************************************/
-var _$_54d7=["substring","pathname","log",".x-about-this-seller .ux-seller-section__content:first","host","EBAY-US","href","attr",".ux-seller-section__item--seller a","EBAY-UK","text",".d-business-seller .ux-section--nameAndAddress .ux-section__item:last","<font color=\"#FF0000\">","</font>","append","China","#prcIsum","\xA3","","replace","html","<div>(\u5b9e\u6536: <font color=\'#FF0000\'>\xA3 ","toFixed","</font>)</div>","after","#CenterPanel","<button class=\'chartViewBtn\'>\u663e\u793a</button>",".card","click",".chartViewBtn","a","children","prev","target","border-color","white","css","border","2px solid red","closest","remove",".shareChart","itm/","indexOf","\u672c\u94fe\u63a5\u2191",".container_wrapper","parent","<div class=\'shareChart\'></div>",".merch-main-header","find","on","callback\u88ab\u8c03\u7528","type","childList","addedNodes","length","\u589e\u52a0\u8282\u70b9","takeRecords","Similar sponsored items","Sponsored items from this seller","Sponsored items based on your recent views","Explore more sponsored options: Custom Bundle","Related sponsored items","People who viewed this item also viewed","Find more sponsored items","#","querySelector","observe","forEach","keys","removedNodes","attributes","attributeName","aria-hidden","oldValue","true","each","ready"];function listingMain(_0xC47A,_0xB642){var _0xB7A0=_0xC47A[_$_54d7[1]][_$_54d7[0]](5);console[_$_54d7[2]](_0xB7A0);var $sellerContainer=$(_$_54d7[3]);var _0xB75A=getEbaySiteString(_0xC47A[_$_54d7[4]]);if(_0xB75A== _$_54d7[5]){var _0xD226=$(_$_54d7[8])[_$_54d7[7]](_$_54d7[6]);console[_$_54d7[2]](_0xD226);SellerInfoMountToByUrl(_0xD226,sellerContainer)}else {if(_0xB75A== _$_54d7[9]){var _0xD10E=$(_$_54d7[11])[_$_54d7[10]]();$sellerContainer[_$_54d7[14]](_$_54d7[12]+ _0xD10E+ _$_54d7[13]);if(_0xD10E== _$_54d7[15]){var $price=$(_$_54d7[16]);var _0xD19A=$price[_$_54d7[20]]()[_$_54d7[19]](_$_54d7[17],_$_54d7[18]);var _0xD1E0=parseFloat(_0xD19A);var _0xD154=_0xD1E0* 100* 5/ 6/ 100;$price[_$_54d7[24]](_$_54d7[21]+ _0xD154[_$_54d7[22]](2)+ _$_54d7[23])}}};purchaseTrendsMountToByItemId(_0xB75A,_0xB7A0,$(_$_54d7[25]),_0xB7A0);$(document)[_$_54d7[77]](function(){$(_$_54d7[27])[_$_54d7[14]](_$_54d7[26]);$(document)[_$_54d7[50]](_$_54d7[28],_$_54d7[29],function(_0xB5FC){var _0xD410=$(_0xB5FC[_$_54d7[33]])[_$_54d7[32]]()[_$_54d7[31]](_$_54d7[30])[_$_54d7[7]](_$_54d7[6]);$(_$_54d7[27])[_$_54d7[36]](_$_54d7[34],_$_54d7[35]);$(_0xB5FC[_$_54d7[33]])[_$_54d7[39]](_$_54d7[27])[_$_54d7[36]](_$_54d7[37],_$_54d7[38]);console[_$_54d7[2]](_0xD410);$(_$_54d7[41])[_$_54d7[40]]();var _0xC920=_0xD410[_$_54d7[43]](_$_54d7[42]);if(_0xC920> 0){var _0xD456=_0xD410[_$_54d7[0]](_0xC920+ 4,_0xC920+ 4+ 12);if(_0xD456== _0xB7A0){$(_0xB5FC[_$_54d7[33]])[_$_54d7[10]](_$_54d7[44])}else {var $container_wrapper=$(_0xB5FC[_$_54d7[33]])[_$_54d7[39]](_$_54d7[45]);var $placement=$container_wrapper[_$_54d7[46]]()[_$_54d7[46]]();var $mountDiv=$(_$_54d7[47]);$placement[_$_54d7[49]](_$_54d7[48])[_$_54d7[24]]($mountDiv);purchaseTrendsMountToByItemId(_0xB75A,_0xD456,$mountDiv)}}});var _0xC506={childList:true,attributes:true,attributeOldValue:true};var _0xC4C0=function(_0xC61E,_0xC54C){console[_$_54d7[2]](_$_54d7[51]);for(var _0xC5D8 of _0xC61E){console[_$_54d7[2]](_0xC5D8);if(_0xC5D8[_$_54d7[52]]== _$_54d7[53]&& _0xC5D8[_$_54d7[54]]&& _0xC5D8[_$_54d7[54]][_$_54d7[55]]> 0){console[_$_54d7[2]](_$_54d7[56]);$(_0xC5D8[_$_54d7[33]])[_$_54d7[49]](_$_54d7[27])[_$_54d7[14]](_$_54d7[26]);_0xC54C[_$_54d7[57]]();break}}};var _0xD2B2={placement_html_101195:_$_54d7[58],placement_html_101196:_$_54d7[59],placement_html_101112:_$_54d7[60],placement_html_101110:_$_54d7[61],placement_html_101111:_$_54d7[62],placement_html_101113:_$_54d7[63],placement_html_101506:_$_54d7[64]};Object[_$_54d7[69]](_0xD2B2)[_$_54d7[68]](function(_0xD49C){var _0xD4E2=document[_$_54d7[66]](_$_54d7[65]+ _0xD49C);var _0xC54C= new MutationObserver(_0xC4C0);_0xC54C[_$_54d7[67]](_0xD4E2,_0xC506)});var _0xD2F8=$(_$_54d7[27]);var _0xD26C=function(_0xC61E,_0xC54C){for(var _0xC5D8 of _0xC61E){if(_0xC5D8[_$_54d7[52]]== _$_54d7[53]&& _0xC5D8[_$_54d7[70]]&& _0xC5D8[_$_54d7[70]][_$_54d7[55]]> 0){if($(_0xC5D8[_$_54d7[33]])[_$_54d7[49]](_$_54d7[29])[_$_54d7[55]]== 0){$(_0xC5D8[_$_54d7[33]])[_$_54d7[14]](_$_54d7[26])}};if(_0xC5D8[_$_54d7[52]]== _$_54d7[71]&& _0xC5D8[_$_54d7[72]]== _$_54d7[73]&& _0xC5D8[_$_54d7[74]]== _$_54d7[75]){if($(_0xC5D8[_$_54d7[33]])[_$_54d7[49]](_$_54d7[29])[_$_54d7[55]]== 0){$(_0xC5D8[_$_54d7[33]])[_$_54d7[14]](_$_54d7[26])}}}};$[_$_54d7[76]](_0xD2F8,function(_0xB458,_0xB872){var _0xC54C= new MutationObserver(_0xD26C);_0xC54C[_$_54d7[67]](_0xB872,_0xC506)})})}
+
+
+function listingMain(location, params)
+{
+
+    //$('#placement_html_101195').append("<div class='shareChart'></div>");
+    $(document).ready(function(){
+
+        var itemid = location.pathname.substring(5);
+        console.log(itemid);
+
+        // 获取国家显示到seller名字下面
+        //$('.ux-seller-section__item--seller a').attr("href")
+        //$('.mem_loc').text()
+        // 获取国家信息
+        var $sellerContainer = $(".x-about-this-seller .ux-seller-section__content:first");
+        var ebaySite = getEbaySiteString(location.host);
+        if (ebaySite == "EBAY-US")
+        {
+            var urlSeller = $('.ux-seller-section__item--seller a').attr("href");
+            console.log(urlSeller);
+            SellerInfoMountToByUrl(urlSeller, sellerContainer);
+        } else if (ebaySite == "EBAY-UK") { 
+            var country = $(".d-business-seller .ux-section--nameAndAddress .ux-section__item:last").text();
+            $sellerContainer.append('<font color="#FF0000">'+country+'</font>');
+
+            // 价格换算
+            if (country == "China")
+            {
+                var $price = $("#prcIsum");
+                var priceWithVat = $price.html().replace("£","");
+                var priceWithVat1 = parseFloat(priceWithVat);
+                var priceWithoutVat = priceWithVat1 * 100 * 5/6 /100;
+                $price.after("<div id='prcIsum-withoutvat'>(实收: <font color='#FF0000'>£ "+priceWithoutVat.toFixed(2)+"</font>)</div>");
+
+            }
+        }
+
+
+        // SOLD 销售曲线
+        //var url = $('.vi-qtyS-hot-red a').attr('href');
+        purchaseTrendsMountToByItemId(ebaySite, itemid, $("#CenterPanel"), itemid);
+
+
+        $(".card").append("<button class='chartViewBtn'>显示</button>");
+        $(document).on('click','.chartViewBtn',function(e){
+            var ahref = $(e.target).prev().children("a").attr("href");
+            $(".card").css("border-color","white");
+            $(e.target).closest(".card").css("border","2px solid red");
+            console.log(ahref);
+
+            $(".shareChart").remove();
+            var start = ahref.indexOf('itm/');
+            if (start > 0)
+            {
+                var relatedItemId = ahref.substring(start+4, start+4+12);
+                if (relatedItemId == itemid) //关联板块
+                {
+                    $(e.target).text("本链接↑");
+                }
+                else
+                {
+                    var $container_wrapper = $(e.target).closest(".container_wrapper");
+                    var $placement = $container_wrapper.parent().parent();
+                    var $mountDiv = $("<div class='shareChart'></div>");
+                    $placement.find(".merch-main-header").after($mountDiv);
+                    purchaseTrendsMountToByItemId(ebaySite, relatedItemId, $mountDiv);
+                    
+                }
+            }
+        });
+
+
+
+
+        //选择一个需要观察的节点
+        //var targetNode = $('.merch-tile-container');
+
+        // 设置observer的配置选项
+        var config = { childList: true,
+                        attributes:true, // 将旧数据传递给回调函数};
+                        //subtree:true
+                        attributeOldValue: true
+                        };
+
+
+        // 当节点发生变化时的需要执行的函数
+        var callback = function(mutationsList, observer) {
+            console.log("callback被调用");
+            for(var mutation of mutationsList) {
+                console.log(mutation);
+                if (mutation.type == 'childList' &&
+                    mutation.addedNodes &&
+                    mutation.addedNodes.length > 0)
+                {
+                    console.log("增加节点");
+                    $(mutation.target).find(".card").append("<button class='chartViewBtn'>显示</button>");
+                    observer.takeRecords();
+                    break;
+                }
+            }
+        };
+
+       
+        // 创建一个observer示例与回调函数相关联
+        var placements = {placement_html_101195: "Similar sponsored items",
+                            placement_html_101196: "Sponsored items from this seller",
+
+                            placement_html_101112:  "Sponsored items based on your recent views",
+                            placement_html_101110:  "Explore more sponsored options: Custom Bundle",
+                            placement_html_101111:  "Related sponsored items",
+
+                            placement_html_101113:  "People who viewed this item also viewed",
+                            placement_html_101506:  "Find more sponsored items"};
+
+        Object.keys(placements).forEach(function(key){
+            var tagName = document.querySelector("#"+key);
+            //$.each(itemTiles, function(index, item){
+            var observer = new MutationObserver(callback);
+            //使用配置文件对目标节点进行观测
+            observer.observe(tagName, config);
+        });
+
+        var config_price = { childList: true,
+            attributes:true, // 将旧数据传递给回调函数};
+            CharacterData: true,
+            //subtree:true
+            attributeOldValue: true
+            };
+
+
+         // 当节点发生变化时的需要执行的函数
+         var callback_price = function(mutationsList, observer) {
+            console.log("callback被调用");
+            for(var mutation of mutationsList) {
+                console.log(mutation);
+                if (mutation.type == 'attributes' &&
+                    mutation.attributeName == 'content')
+                {
+                    console.log("修改价格");
+                    var $price = $("#prcIsum");
+                    var priceWithVat = $price.html().replace("£","");
+                    var priceWithVat1 = parseFloat(priceWithVat);
+                    var priceWithoutVat = priceWithVat1 * 100 * 5/6 /100;
+                    
+                   // $price.after("<div id='#prcIsum-withoutvat'>(实收: <font color='#FF0000'>£ "+priceWithoutVat.toFixed(2)+"</font>)</div>");
+                   $("#prcIsum-withoutvat").empty();
+                   $("#prcIsum-withoutvat").append("(实收: <font color='#FF0000'>£ "+priceWithoutVat.toFixed(2)+"</font>)");
+                   observer.takeRecords();
+                   break;
+                }
+            }
+        };
+
+        var tagNamePrice = document.querySelector("#prcIsum");
+        var observer = new MutationObserver(callback_price);
+        //使用配置文件对目标节点进行观测
+        observer.observe(tagNamePrice, config_price);
+
+
+
+        // 监测动态添加的元素的属性变化
+        var tagNames = $(".card");
+
+        // 当节点发生变化时的需要执行的函数
+        var callback1 = function(mutationsList, observer) {
+            //console.log("callback111被调用");
+            for(var mutation of mutationsList) {
+                //console.log(mutation);
+                if (mutation.type == 'childList' &&
+                    mutation.removedNodes &&
+                    mutation.removedNodes.length > 0)
+                {
+                    //console.log("被删除，重新添加11111111");
+                    if($(mutation.target).find(".chartViewBtn").length == 0)
+                    {
+                        $(mutation.target).append("<button class='chartViewBtn'>显示</button>");
+                    }
+                }
+                if (mutation.type == 'attributes' &&
+                    mutation.attributeName == 'aria-hidden' &&
+                    mutation.oldValue == 'true')
+                {
+                    //console.log(".card节点属性aria-hidden变化");
+                    if($(mutation.target).find(".chartViewBtn").length == 0)
+                    {
+                        $(mutation.target).append("<button class='chartViewBtn'>显示</button>");
+                    }
+
+                    //observer.takeRecords();
+                    //break;
+                }
+            }
+        };
+
+        $.each(tagNames, function(index, item){
+            var observer = new MutationObserver(callback1);
+            //使用配置文件对目标节点进行观测
+            observer.observe(item, config);
+        });
+
+
+
+
+
+
+
+});
+
+
+
+
+
+
+
+
+
+
+
+} 

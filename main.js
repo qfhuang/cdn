@@ -1,8 +1,38 @@
-/***************************************************************************/
-/*                                                                         */
-/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
-/*  Javascript Obfuscator Free Version can be downloaded here              */
-/*  http://javascriptobfuscator.com                                        */
-/*                                                                         */
-/***************************************************************************/
-var _$_6576=["?","split","href","location","","parseParams","host","pathname","www.ebay.","startsWith","/bin/purchaseHistory","/itm/","startWith","listingMain-START","log","listingMain-END","/sh/research","www.geo-ship.com"];function Main(){var _0xB642=$[_$_6576[5]](window[_$_6576[3]][_$_6576[2]][_$_6576[1]](_$_6576[0])[1]|| _$_6576[4]);var _0xD528=window[_$_6576[3]][_$_6576[6]];var _0xD56E=window[_$_6576[3]][_$_6576[7]];if(_0xD528[_$_6576[9]](_$_6576[8])&& _0xD56E[_$_6576[9]](_$_6576[10])){purchaseMain(location,_0xB642)}else {if(_0xD528[_$_6576[9]](_$_6576[8])&& _0xD56E[_$_6576[12]](_$_6576[11])){console[_$_6576[14]](_$_6576[13]);listingMain(location,_0xB642);console[_$_6576[14]](_$_6576[15])}else {if(_0xD528[_$_6576[9]](_$_6576[8])&& _0xD56E[_$_6576[9]](_$_6576[16])){terapeakMain(location,_0xB642)}else {if(_0xD528[_$_6576[9]](_$_6576[17])){geoMain(location,_0xB642)}}}}}
+
+function Main()
+{
+    var params = $.parseParams(window.location.href.split('?')[1] || '');
+    var host = window.location.host;
+    var pathname = window.location.pathname;
+
+    if (host.startsWith("www.ebay.")  &&
+        pathname.startsWith("/bin/purchaseHistory") )
+    {
+        purchaseMain(location, params);
+    }
+    else if (host.startsWith("www.ebay.")  &&
+        pathname.startWith("/itm/") )
+    {
+        console.log("listingMain-START");
+        listingMain(location, params);
+        console.log("listingMain-END");
+    }
+    else if (host.startsWith("www.ebay.")  &&
+    pathname.startsWith("/sh/research") )
+    {
+        terapeakMain(location, params);
+    }
+    else if (host.startsWith("www.geo-ship.com"))
+    {
+
+        geoMain(location, params);
+    }
+    
+
+
+
+
+
+
+
+}

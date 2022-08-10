@@ -1,8 +1,83 @@
-/***************************************************************************/
-/*                                                                         */
-/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
-/*  Javascript Obfuscator Free Version can be downloaded here              */
-/*  http://javascriptobfuscator.com                                        */
-/*                                                                         */
-/***************************************************************************/
-var _$_62b2=["hookGEOSHIP\x0A","log","length",".chartViewBtn","<button class=\'chartViewBtn\'>\u663e\u793a</button>","append",".app-card-controls","click","href","attr",".title-link[gaevent=\'title-click\']","find",".app-card","closest","target","itm/","indexOf","substring","#a","-chart","<div id=\'a","-chart\'></div>",".ng-star-inserted","toggle","on",".search-results","querySelector","type","childList","addedNodes","takeRecords","observe","ready"];function hookGEOSHIP(){console[_$_62b2[1]](_$_62b2[0]);if($(_$_62b2[3])[_$_62b2[2]]== 0){$(_$_62b2[6])[_$_62b2[5]](_$_62b2[4]);$(document)[_$_62b2[24]](_$_62b2[7],_$_62b2[3],function(_0xB5FC){var _0xC8DA=$(_0xB5FC[_$_62b2[14]])[_$_62b2[13]](_$_62b2[12])[_$_62b2[11]](_$_62b2[10])[_$_62b2[9]](_$_62b2[8]);console[_$_62b2[1]](_0xC8DA);var _0xC920=_0xC8DA[_$_62b2[16]](_$_62b2[15]);if(_0xC920> 0){var _0xB7A0=_0xC8DA[_$_62b2[17]](_0xC920+ 4,_0xC920+ 4+ 12);console[_$_62b2[1]](_0xB7A0);if($(_$_62b2[18]+ _0xB7A0+ _$_62b2[19])[_$_62b2[2]]== 0){var $chart=$(_$_62b2[20]+ _0xB7A0+ _$_62b2[21]);$(_0xB5FC[_$_62b2[14]])[_$_62b2[13]](_$_62b2[22])[_$_62b2[5]]($chart);var _0xB75A=getEbaySiteString(_0xC8DA);console[_$_62b2[1]](_0xB75A,_0xB7A0);purchaseTrendsMountToByItemIdCROS(_0xB75A,_0xB7A0,$chart)}else {$(_$_62b2[18]+ _0xB7A0+ _$_62b2[19])[_$_62b2[23]]()}}})}}function geoMain(_0xC47A,_0xB642){$(document)[_$_62b2[32]](function(){setTimeout(hookGEOSHIP,5000);var _0xC592=document[_$_62b2[26]](_$_62b2[25]);var _0xC506={childList:true};var _0xC4C0=function(_0xC61E,_0xC54C){for(var _0xC5D8 of _0xC61E){if(_0xC5D8[_$_62b2[27]]== _$_62b2[28]){if(_0xC5D8[_$_62b2[29]][_$_62b2[2]]> 0){hookGEOSHIP();_0xC54C[_$_62b2[30]]();break}}}};var _0xC54C= new MutationObserver(_0xC4C0);_0xC54C[_$_62b2[31]](_0xC592,_0xC506)})}
+
+
+function hookGEOSHIP()
+{
+    console.log("hookGEOSHIP\n");
+
+    if($(".chartViewBtn").length == 0)
+    {
+        $(".app-card-controls").append("<button class='chartViewBtn'>显示</button>");
+        $(document).on("click", ".chartViewBtn", function(e){
+            var href = $(e.target).closest('.app-card').find(".title-link[gaevent='title-click']").attr("href");
+            console.log(href);
+            
+            var start = href.indexOf('itm/');
+            if (start > 0)
+            {
+                var itemid = href.substring(start+4, start+4+12);
+                console.log(itemid);
+                if($("#a"+itemid+"-chart").length == 0) //如果没有节点
+                {
+                    
+                    var $chart = $("<div id='a" + itemid + "-chart'></div>");
+                    $(e.target).closest('.ng-star-inserted').append($chart);
+                    var ebaySite = getEbaySiteString(href);
+                    console.log(ebaySite, itemid);
+                    
+                    purchaseTrendsMountToByItemIdCROS(ebaySite, itemid, $chart)
+                }
+                else
+                {
+                    $("#a"+itemid+"-chart").toggle(); //折叠
+                }
+
+
+
+            }
+
+        });
+    }
+
+
+}
+
+
+function geoMain(location, params)
+{
+    $(document).ready(function(){
+        setTimeout(hookGEOSHIP, 5000);
+        //选择一个需要观察的节点
+        var targetNode = document.querySelector(".search-results");
+
+        // 设置observer的配置选项
+        var config = { childList: true};
+
+        // 当节点发生变化时的需要执行的函数
+        var callback = function(mutationsList, observer) {
+            for(var mutation of mutationsList) {
+                if (mutation.type == 'childList') {
+                    if (mutation.addedNodes.length > 0)
+                    {
+                        hookGEOSHIP();
+                        observer.takeRecords();
+                        break;
+                    }
+                }
+            }
+        };
+
+        // 创建一个observer示例与回调函数相关联
+        var observer = new MutationObserver(callback);
+
+        //$.each(targetNodes, function(index, targetNode){
+            //使用配置文件对目标节点进行观测
+            observer.observe(targetNode, config);
+        //});
+
+
+        // 停止观测
+        //observer.disconnect();
+
+    });
+}
+        
