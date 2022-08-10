@@ -1,0 +1,8 @@
+/***************************************************************************/
+/*                                                                         */
+/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
+/*  Javascript Obfuscator Free Version can be downloaded here              */
+/*  http://javascriptobfuscator.com                                        */
+/*                                                                         */
+/***************************************************************************/
+var _$_95e5=["?","split","href","location","","parseParams","host","pathname","www.ebay.","startsWith","/bin/purchaseHistory","/itm/","startWith","listingMain-START","log","listingMain-END","/sh/research","www.geo-ship.com"];function Main(){var _0x1E9D1=$[_$_95e5[5]](window[_$_95e5[3]][_$_95e5[2]][_$_95e5[1]](_$_95e5[0])[1]|| _$_95e5[4]);var _0x1F704=window[_$_95e5[3]][_$_95e5[6]];var _0x1F723=window[_$_95e5[3]][_$_95e5[7]];if(_0x1F704[_$_95e5[9]](_$_95e5[8])&& _0x1F723[_$_95e5[9]](_$_95e5[10])){purchaseMain(location,_0x1E9D1)}else {if(_0x1F704[_$_95e5[9]](_$_95e5[8])&& _0x1F723[_$_95e5[12]](_$_95e5[11])){console[_$_95e5[14]](_$_95e5[13]);listingMain(location,_0x1E9D1);console[_$_95e5[14]](_$_95e5[15])}else {if(_0x1F704[_$_95e5[9]](_$_95e5[8])&& _0x1F723[_$_95e5[9]](_$_95e5[16])){terapeakMain(location,_0x1E9D1)}else {if(_0x1F704[_$_95e5[9]](_$_95e5[17])){geoMain(location,_0x1E9D1)}}}}}
