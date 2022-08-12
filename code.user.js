@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         eBayTrends
+// @name         eBayTrends发布版
 // @namespace    http://tampermonkey.net/
 // @version      1.6.3
 // @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.4/code.user.js
@@ -18,27 +18,19 @@
 // @require      https://code.highcharts.com/highcharts.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jsrender/1.0.11/jsrender.min.js
 //
-//
-// @require      http://192.168.1.88/lib.js?nocache=fasdfasf7777777777777
-// @require      http://192.168.1.88/purchase.js?nocache=fasdfasf7777777777777
-// @require      http://192.168.1.88/listing.js?nocache=fasdfasf7777777777777aaa
-// @require      http://192.168.1.88/terapeak.js?nocache=fasdfasf7777777777777
-// @require      http://192.168.1.88/geo.js?nocache=fasdfasf7777777777777
-// @require      http://192.168.1.88/main.js?nocache=fasdfasf7777777777777
-//
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/lib.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/purchase.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/listing.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/terapeak.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/geo.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/main.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @connect      *
 // ==/UserScript==
 
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/lib.js?nocache=fasdfasf77777777fffffffffffffffff77777fffffff
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/purchase.js?nocache=fasdfasf7777777fffffffffff777777fffffffffffffff
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/listing.js?nocache=fasdfasf777777777fffffffffffffff7777fffffffff
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/terapeak.js?nocache=fasdfasf77777fffffffffffff77777777fffffffffffffff
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/geo.js?nocache=fasdfasf777777777fffffffffffff7777fffffffffff
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.3/main.js?nocache=fasdfasf77777777fffffffff77777ffffffffff
-//
+
 
 (function() {
     'use strict';

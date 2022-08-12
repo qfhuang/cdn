@@ -1,38 +1,8 @@
-
-function Main()
-{
-    var params = $.parseParams(window.location.href.split('?')[1] || '');
-    var host = window.location.host;
-    var pathname = window.location.pathname;
-
-    if (host.startsWith("www.ebay.")  &&
-        pathname.startsWith("/bin/purchaseHistory") )
-    {
-        purchaseMain(location, params);
-    }
-    else if (host.startsWith("www.ebay.")  &&
-        pathname.startWith("/itm/") )
-    {
-        console.log("listingMain-START");
-        listingMain(location, params);
-        console.log("listingMain-END");
-    }
-    else if (host.startsWith("www.ebay.")  &&
-    pathname.startsWith("/sh/research") )
-    {
-        terapeakMain(location, params);
-    }
-    else if (host.startsWith("www.geo-ship.com"))
-    {
-
-        geoMain(location, params);
-    }
-    
-
-
-
-
-
-
-
-}
+/***************************************************************************/
+/*                                                                         */
+/*  This obfuscated code was created by Javascript Obfuscator Free Version.*/
+/*  Javascript Obfuscator Free Version can be downloaded here              */
+/*  http://javascriptobfuscator.com                                        */
+/*                                                                         */
+/***************************************************************************/
+var _$_4509=["?","split","href","location","","parseParams","host","pathname","www.ebay.","startsWith","/bin/purchaseHistory","/itm/","startWith","listingMain-START","log","listingMain-END","/sh/research","/sch","www.geo-ship.com"];function Main(){var _0xB8BE=$[_$_4509[5]](window[_$_4509[3]][_$_4509[2]][_$_4509[1]](_$_4509[0])[1]|| _$_4509[4]);var _0xE356=window[_$_4509[3]][_$_4509[6]];var _0xE3B4=window[_$_4509[3]][_$_4509[7]];if(_0xE356[_$_4509[9]](_$_4509[8])&& _0xE3B4[_$_4509[9]](_$_4509[10])){purchaseMain(location,_0xB8BE)}else {if(_0xE356[_$_4509[9]](_$_4509[8])&& _0xE3B4[_$_4509[12]](_$_4509[11])){console[_$_4509[14]](_$_4509[13]);listingMain(location,_0xB8BE);console[_$_4509[14]](_$_4509[15])}else {if(_0xE356[_$_4509[9]](_$_4509[8])&& _0xE3B4[_$_4509[9]](_$_4509[16])){terapeakMain(location,_0xB8BE)}else {if(_0xE356[_$_4509[9]](_$_4509[8])&& _0xE3B4[_$_4509[9]](_$_4509[17])){}else {if(_0xE356[_$_4509[9]](_$_4509[18])){geoMain(location,_0xB8BE)}}}}}}
