@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         eBayTrends发布版
+// @name         eBayTrends
 // @namespace    http://tampermonkey.net/
 // @version      1.6.4
 // @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/code.user.js
