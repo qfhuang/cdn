@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         eBayTrends
 // @namespace    http://tampermonkey.net/
-// @version      1.6.5
-// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/code.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/code.user.js
+// @version      1.6.7
+// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/code.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/code.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.ebay.co.uk/itm/*
@@ -18,12 +18,12 @@
 // @require      https://code.highcharts.com/highcharts.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jsrender/1.0.11/jsrender.min.js
 //
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/lib.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/purchase.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/listing.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/terapeak.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/geo.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.5/main.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/lib.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/purchase.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/listing.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/terapeak.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/geo.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.7/main.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
