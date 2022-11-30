@@ -1,29 +1,32 @@
 // ==UserScript==
 // @name         eBayTrends
 // @namespace    http://tampermonkey.net/
-// @version      1.6.9
-// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/code.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/code.user.js
+// @version      2022.11.30
+// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/code.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/code.user.js
 // @description  try to take over the world!
 // @author       You    
 // @match        https://www.ebay.co.uk/itm/*
 // @match        https://www.ebay.co.uk/bin/purchaseHistory?item=*
+// @match        https://www.ebay.co.uk/sh/research*
 // @match        https://www.ebay.com/itm/*
 // @match        https://www.ebay.com/bin/purchaseHistory?item=*
 // @match        https://www.ebay.com/sh/research*
-// @match        https://www.ebay.co.uk/sh/research*
+// @match        https://www.ebay.de/itm/*
+// @match        https://www.ebay.de/bin/purchaseHistory?item=*
+// @match        https://www.ebay.de/sh/research*
 // @match        https://www.geo-ship.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ebay.co.uk
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
 // @require      https://code.highcharts.com/highcharts.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jsrender/1.0.11/jsrender.min.js
 //
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/lib.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/purchase.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/listing.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/terapeak.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/geo.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@1.6.9/main.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/lib.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/purchase.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/listing.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/terapeak.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/geo.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@2022.11.30/main.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_getResourceText

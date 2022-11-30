@@ -5,4 +5,4 @@
 /*  http://javascriptobfuscator.com                                        */
 /*                                                                         */
 /***************************************************************************/
-var _$_3475=["item",".app-item-card"];function purchaseMain(_0x1C49B,_0x1C127){var _0x1C17C=_0x1C127[_$_3475[0]];purchaseTrendsMountTo($(document),$(_$_3475[1]),_0x1C17C)}
+var _$_2c7d=["item",".app-item-card"];function purchaseMain(_0xEB87,_0xE12B){var _0xE22A=_0xE12B[_$_2c7d[0]];purchaseTrendsMountTo($(document),$(_$_2c7d[1]),_0xE22A)}
