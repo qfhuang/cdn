@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         eBayTrends
 // @namespace    http://tampermonkey.net/
-// @version      20230917
-// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/code.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/code.user.js
+// @version      20230918
+// @downloadURL  https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/code.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/code.user.js
 // @description  try to take over the world!
 // @author       You    
 // @match        https://www.ebay.co.uk/itm/*
@@ -16,15 +16,15 @@
 // @match        https://www.ebay.de/bin/purchaseHistory?item=*
 // @match        https://www.ebay.de/sh/research*
 // @match        https://www.geo-ship.com/*
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/jquery-3.5.1.min.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/highcharts.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/jquery-3.5.1.min.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/highcharts.js
 //
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/lib.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/purchase.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/listing.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/terapeak.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/geo.js
-// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230917/main.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/lib.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/purchase.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/listing.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/terapeak.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/geo.js
+// @require      https://cdn.jsdelivr.net/gh/qfhuang/cdn@20230918/main.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
